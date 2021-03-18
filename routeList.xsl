@@ -55,11 +55,13 @@
                       <form method="POST" action="index.php">
                         <xsl:for-each select="routes/route">
                             <xsl:variable name="i" select="position()" />
-                            <xsl:copy>
-                                <xsl:value-of select="concat('$i = ', $i)" />
-                            </xsl:copy>
                             <tr>
-                                <th scope="row">1</th>
+                                <th scope="row">
+                                    <xsl:copy>
+                                        <xsl:value-of select="$i" />
+                                    </xsl:copy>
+                                
+                                </th>
                                 <td id="name"><xsl:value-of select="Name" /></td>
                                 <td><xsl:value-of select="Location" /></td>
                                 <td><xsl:value-of select="AvgStars" /></td>
