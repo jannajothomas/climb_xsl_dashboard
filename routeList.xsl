@@ -73,7 +73,7 @@
                                         </script>
                                 </td>
                                 <td>
-                                    <input type="submit" id="btn_sub" name="btn_sub" class="btn btn-secondary btn-lg" value="Submit" />
+                                    <button type="submit" id="btn_sub" name="btn_sub" class="btn btn-secondary btn-lg" value="submit" />
                                     
                                 </td>
                                 

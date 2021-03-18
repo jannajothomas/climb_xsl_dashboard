@@ -18,5 +18,5 @@ XSLFile=$3
 cat "$1" | sed 's/:.*\///g' | sed 's/Route/Name/g' | sed 's/URL/Date/g' | sed 's/ >.*,https/,/g' | sed '1s/ //g' |                               tr -d '"' | sed 's/,,/,0,/g' > "$2"
 
 java net.sf.saxon.Transform -it:csvConvert csvconvert.xsl root=routes record=route csvFile=routeFinder.txt -o:routeList.xml
-java net.sf.saxon.Transform routeList.xml state1.xsl -o:state1.html
+java net.sf.saxon.Transform routeList.xml routeList.xsl -o:routeList1.html
 
