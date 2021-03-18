@@ -8,7 +8,7 @@
         echo "you didn't post";
     }
 
-    if($_Post["checkbox"] == "")
+    if($_POST["checkbox"] == "")
     {
         echo  "checkbox"
     }
