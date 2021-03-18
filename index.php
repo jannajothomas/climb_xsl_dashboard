@@ -1,22 +1,8 @@
 <?php
 
-	if ($_POST["btn_sub"] == "") 
-        {  
-		echo "you successfully posted";		 
-	   } 
-    else{
-        echo "you didn't post";
-    }
-
     foreach ($_POST as $key => $value) {
-        echo "<tr>";
-        echo "<td>";
         echo $key;
-        echo "</td>";
-        echo "<td>";
         echo $value;
-        echo "</td>";
-        echo "</tr>";
     }
 
 
