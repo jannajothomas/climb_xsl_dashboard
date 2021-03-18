@@ -1,4 +1,4 @@
-Name,Location,URL,AvgStars,YourStars,NameType,Rating,Pitches,Length,AreaLatitude,AreaLongitude
+Name,Location,Date,AvgStars,YourStars,NameType,Rating,Pitches,Length,AreaLatitude,AreaLongitude
 Things I Never Learned,Jimmy Cliff,things-i-never-learned,2.2,-1,Sport,5.9,1,0,43.80417,-71.84037
 To Love Honor and Belay,Jimmy Cliff,to-love-honor-and-belay,2.0,-1,Sport,5.9,1,0,43.80417,-71.84037
 War and  Peace,Bonsai,war-and-peace,2.7,-1,Sport,5.9,1,0,43.80288,-71.83926

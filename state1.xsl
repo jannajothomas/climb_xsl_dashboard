@@ -65,15 +65,15 @@
                                     </div>
                                 </td>
                                 <td>
-                                    <input id="datepicker" width="276" />
+                                    <!--<input id="datepicker" width="276" />
                                         <script>
                                             $('#datepicker').datepicker({
                                             uiLibrary: 'bootstrap4'
                                             });
-                                        </script>
+                                        </script>-->
                                 </td>
                                 <td>
-                                    <button type="button" class="btn btn-secondary btn-lg" disabled="yes">Update</button>
+                                    <!--<button type="button" class="btn btn-secondary btn-lg" disabled="yes">Update</button>-->
                                     
                                 </td>
                                 

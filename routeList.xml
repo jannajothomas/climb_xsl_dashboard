@@ -3,7 +3,7 @@
    <route>
       <Name>Things I Never Learned</Name>
       <Location>Jimmy Cliff</Location>
-      <URL>things-i-never-learned</URL>
+      <Date>things-i-never-learned</Date>
       <AvgStars>2.2</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -16,7 +16,7 @@
    <route>
       <Name>To Love Honor and Belay</Name>
       <Location>Jimmy Cliff</Location>
-      <URL>to-love-honor-and-belay</URL>
+      <Date>to-love-honor-and-belay</Date>
       <AvgStars>2.0</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -29,7 +29,7 @@
    <route>
       <Name>War and  Peace</Name>
       <Location>Bonsai</Location>
-      <URL>war-and-peace</URL>
+      <Date>war-and-peace</Date>
       <AvgStars>2.7</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -42,7 +42,7 @@
    <route>
       <Name>Bolt And Run</Name>
       <Location>5.8 Crag</Location>
-      <URL>bolt-and-run</URL>
+      <Date>bolt-and-run</Date>
       <AvgStars>2.3</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -55,7 +55,7 @@
    <route>
       <Name>Yoda</Name>
       <Location>Darth Vader</Location>
-      <URL>yoda</URL>
+      <Date>yoda</Date>
       <AvgStars>3.0</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -68,7 +68,7 @@
    <route>
       <Name>Oby-won Ryobi</Name>
       <Location>Darth Vader</Location>
-      <URL>oby-won-ryobi</URL>
+      <Date>oby-won-ryobi</Date>
       <AvgStars>3.1</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -81,7 +81,7 @@
    <route>
       <Name>Orange Crush (retro-bolted)</Name>
       <Location>Orange Crush</Location>
-      <URL>orange-crush-retro-bolted</URL>
+      <Date>orange-crush-retro-bolted</Date>
       <AvgStars>2.2</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -94,7 +94,7 @@
    <route>
       <Name>Night Crawler</Name>
       <Location>New Wave</Location>
-      <URL>night-crawler</URL>
+      <Date>night-crawler</Date>
       <AvgStars>2.1</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -107,7 +107,7 @@
    <route>
       <Name>Smokestack</Name>
       <Location>New Wave</Location>
-      <URL>smokestack</URL>
+      <Date>smokestack</Date>
       <AvgStars>3.4</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -120,7 +120,7 @@
    <route>
       <Name>Curly for President</Name>
       <Location>The Parking Lot Wall</Location>
-      <URL>curly-for-president</URL>
+      <Date>curly-for-president</Date>
       <AvgStars>2.7</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -133,7 +133,7 @@
    <route>
       <Name>Quinn/Callaghan</Name>
       <Location>The Parking Lot Wall</Location>
-      <URL>quinncallaghan</URL>
+      <Date>quinncallaghan</Date>
       <AvgStars>2.5</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -146,7 +146,7 @@
    <route>
       <Name>Easily Aroused</Name>
       <Location>The Parking Lot Wall</Location>
-      <URL>easily-aroused</URL>
+      <Date>easily-aroused</Date>
       <AvgStars>1.7</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -159,7 +159,7 @@
    <route>
       <Name>Egg McMeadows</Name>
       <Location>The Parking Lot Wall</Location>
-      <URL>egg-mcmeadows</URL>
+      <Date>egg-mcmeadows</Date>
       <AvgStars>2.3</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -172,7 +172,7 @@
    <route>
       <Name>Tumbling Dice</Name>
       <Location>The Prudential</Location>
-      <URL>tumbling-dice</URL>
+      <Date>tumbling-dice</Date>
       <AvgStars>2.2</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -185,7 +185,7 @@
    <route>
       <Name>Thou Shalt Not Covet</Name>
       <Location>No Money Down (Left)</Location>
-      <URL>thou-shalt-not-covet</URL>
+      <Date>thou-shalt-not-covet</Date>
       <AvgStars>2.0</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -198,7 +198,7 @@
    <route>
       <Name>Hippos on Parade</Name>
       <Location>Center Section</Location>
-      <URL>hippos-on-parade</URL>
+      <Date>hippos-on-parade</Date>
       <AvgStars>2.7</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -211,7 +211,7 @@
    <route>
       <Name>Lies and Propaganda</Name>
       <Location>Center Section</Location>
-      <URL>lies-and-propaganda</URL>
+      <Date>lies-and-propaganda</Date>
       <AvgStars>2.6</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -224,7 +224,7 @@
    <route>
       <Name>Bridge to Nowhere</Name>
       <Location>Yellowknife Buttress</Location>
-      <URL>bridge-to-nowhere</URL>
+      <Date>bridge-to-nowhere</Date>
       <AvgStars>3.0</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -237,7 +237,7 @@
    <route>
       <Name>Couch Potato</Name>
       <Location>Below the New Wave</Location>
-      <URL>couch-potato</URL>
+      <Date>couch-potato</Date>
       <AvgStars>2.0</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -250,7 +250,7 @@
    <route>
       <Name>Pussyfoot</Name>
       <Location>The Hinterlands</Location>
-      <URL>pussyfoot</URL>
+      <Date>pussyfoot</Date>
       <AvgStars>2.3</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -263,7 +263,7 @@
    <route>
       <Name>Black Slabbath</Name>
       <Location>The Hinterlands</Location>
-      <URL>black-slabbath</URL>
+      <Date>black-slabbath</Date>
       <AvgStars>2.5</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -276,7 +276,7 @@
    <route>
       <Name>Men In White Suits</Name>
       <Location>Armed and Dangerous (Main Cliff Left)</Location>
-      <URL>men-in-white-suits</URL>
+      <Date>men-in-white-suits</Date>
       <AvgStars>2.3</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -289,7 +289,7 @@
    <route>
       <Name>Green Mile</Name>
       <Location>Armed and Dangerous (Main Cliff Left)</Location>
-      <URL>green-mile</URL>
+      <Date>green-mile</Date>
       <AvgStars>2.4</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -302,7 +302,7 @@
    <route>
       <Name>Panama Hat (aka Mister Meaner)</Name>
       <Location>Armed and Dangerous (Main Cliff Left)</Location>
-      <URL>panama-hat-aka-mister-meaner</URL>
+      <Date>panama-hat-aka-mister-meaner</Date>
       <AvgStars>2.4</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -315,7 +315,7 @@
    <route>
       <Name>Puppy Love</Name>
       <Location>Kennel Wall</Location>
-      <URL>puppy-love</URL>
+      <Date>puppy-love</Date>
       <AvgStars>2.0</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -328,7 +328,7 @@
    <route>
       <Name>I'm Talking to The Dog</Name>
       <Location>Kennel Wall</Location>
-      <URL>im-talking-to-the-dog</URL>
+      <Date>im-talking-to-the-dog</Date>
       <AvgStars>1.6</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -341,7 +341,7 @@
    <route>
       <Name>Yer Anus</Name>
       <Location>Starship Enterprise</Location>
-      <URL>yer-anus</URL>
+      <Date>yer-anus</Date>
       <AvgStars>2.3</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -354,7 +354,7 @@
    <route>
       <Name>Space</Name>
       <Location>Starship Enterprise</Location>
-      <URL>space</URL>
+      <Date>space</Date>
       <AvgStars>2.6</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -367,7 +367,7 @@
    <route>
       <Name>Sea Breeze</Name>
       <Location>The Crow's Nest</Location>
-      <URL>sea-breeze</URL>
+      <Date>sea-breeze</Date>
       <AvgStars>1.7</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -380,7 +380,7 @@
    <route>
       <Name>The Trad's Nest</Name>
       <Location>The Crow's Nest</Location>
-      <URL>the-trads-nest</URL>
+      <Date>the-trads-nest</Date>
       <AvgStars>1.9</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -393,7 +393,7 @@
    <route>
       <Name>Clambake</Name>
       <Location>The Crow's Nest</Location>
-      <URL>clambake</URL>
+      <Date>clambake</Date>
       <AvgStars>1.9</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -406,7 +406,7 @@
    <route>
       <Name>Ill Gotten Booty</Name>
       <Location>The Crow's Nest</Location>
-      <URL>ill-gotten-booty</URL>
+      <Date>ill-gotten-booty</Date>
       <AvgStars>1.9</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -419,7 +419,7 @@
    <route>
       <Name>Charity Case</Name>
       <Location>Main Cliff Right</Location>
-      <URL>charity-case</URL>
+      <Date>charity-case</Date>
       <AvgStars>2.1</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -432,7 +432,7 @@
    <route>
       <Name>Personal Boundaries</Name>
       <Location>Boundary Rock</Location>
-      <URL>personal-boundaries</URL>
+      <Date>personal-boundaries</Date>
       <AvgStars>1.7</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -445,7 +445,7 @@
    <route>
       <Name>B-B-Buttress</Name>
       <Location>The Northwest Territories</Location>
-      <URL>b-b-buttress</URL>
+      <Date>b-b-buttress</Date>
       <AvgStars>3.1</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -458,7 +458,7 @@
    <route>
       <Name>California Chrome</Name>
       <Location>The Northwest Territories</Location>
-      <URL>california-chrome</URL>
+      <Date>california-chrome</Date>
       <AvgStars>2.6</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -471,7 +471,7 @@
    <route>
       <Name>Sodbuster</Name>
       <Location>Buffalo Pit</Location>
-      <URL>sodbuster</URL>
+      <Date>sodbuster</Date>
       <AvgStars>2.2</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -484,7 +484,7 @@
    <route>
       <Name>Stone Worms</Name>
       <Location>Buffalo Pit</Location>
-      <URL>stone-worms</URL>
+      <Date>stone-worms</Date>
       <AvgStars>2.5</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -497,7 +497,7 @@
    <route>
       <Name>Scratchy</Name>
       <Location>Buffalo Pit</Location>
-      <URL>scratchy</URL>
+      <Date>scratchy</Date>
       <AvgStars>1.9</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -510,7 +510,7 @@
    <route>
       <Name>Fresh Fish</Name>
       <Location>Buffalo Pit</Location>
-      <URL>fresh-fish</URL>
+      <Date>fresh-fish</Date>
       <AvgStars>2.6</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -523,7 +523,7 @@
    <route>
       <Name>Drip of Fools</Name>
       <Location>The G-Spot</Location>
-      <URL>drip-of-fools</URL>
+      <Date>drip-of-fools</Date>
       <AvgStars>1.8</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -536,7 +536,7 @@
    <route>
       <Name>Trundle Love</Name>
       <Location>Triple Corners Center</Location>
-      <URL>trundle-love</URL>
+      <Date>trundle-love</Date>
       <AvgStars>2.4</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -549,7 +549,7 @@
    <route>
       <Name>Trigger Happy</Name>
       <Location>Triple Corners Right</Location>
-      <URL>trigger-happy</URL>
+      <Date>trigger-happy</Date>
       <AvgStars>2.6</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -562,7 +562,7 @@
    <route>
       <Name>Left El Diego</Name>
       <Location>Triple Corners Right</Location>
-      <URL>left-el-diego</URL>
+      <Date>left-el-diego</Date>
       <AvgStars>2.4</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -575,7 +575,7 @@
    <route>
       <Name>Jigsaw Puzzle</Name>
       <Location>Triple Corners Right</Location>
-      <URL>jigsaw-puzzle</URL>
+      <Date>jigsaw-puzzle</Date>
       <AvgStars>1.0</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -588,7 +588,7 @@
    <route>
       <Name>Spanning the Gap</Name>
       <Location>Gem Hunter</Location>
-      <URL>spanning-the-gap</URL>
+      <Date>spanning-the-gap</Date>
       <AvgStars>2.3</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -601,7 +601,7 @@
    <route>
       <Name>Tourmaline Dreams</Name>
       <Location>Gem Hunter</Location>
-      <URL>tourmaline-dreams</URL>
+      <Date>tourmaline-dreams</Date>
       <AvgStars>1.6</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -614,7 +614,7 @@
    <route>
       <Name>Gem Hunter</Name>
       <Location>Gem Hunter</Location>
-      <URL>gem-hunter</URL>
+      <Date>gem-hunter</Date>
       <AvgStars>1.3</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -627,7 +627,7 @@
    <route>
       <Name>Cozened Stone</Name>
       <Location>The Very Nice Crag</Location>
-      <URL>cozened-stone</URL>
+      <Date>cozened-stone</Date>
       <AvgStars>3.2</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -640,7 +640,7 @@
    <route>
       <Name>Rippopotamus</Name>
       <Location>The Very Nice Crag</Location>
-      <URL>rippopotamus</URL>
+      <Date>rippopotamus</Date>
       <AvgStars>1.8</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
@@ -653,7 +653,7 @@
    <route>
       <Name>Flaming Arrow</Name>
       <Location>Slab Wall</Location>
-      <URL>flaming-arrow</URL>
+      <Date>flaming-arrow</Date>
       <AvgStars>2.4</AvgStars>
       <YourStars>-1</YourStars>
       <NameType>Sport</NameType>
