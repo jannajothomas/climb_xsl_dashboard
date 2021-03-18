@@ -4,6 +4,9 @@
         {  
 		echo "you successfully posted";		 
 	   } 
+    else{
+        echo "you didn't post";
+    }
 
 
 
