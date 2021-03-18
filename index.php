@@ -8,6 +8,14 @@
         echo "you didn't post";
     }
 
+    if($_Post["checkbox"] == "")
+    {
+        echo  "checkbox"
+    }
+    else{
+        echo "no Checkbox";
+    }
+
 
 
 $xml = new DOMDocument();
