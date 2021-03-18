@@ -71,7 +71,7 @@
                                         <input class="form-check-input position-static checkbox" 
                                                type="checkbox" 
                                                id="blankCheckbox" 
-                                               value=$thisname 
+                                               value="name" 
                                                 aria-label="..." onchange="$('#form').post();" name="checkbox"/>
                                     </div>
                                 </td>
