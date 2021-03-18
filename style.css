@@ -1,0 +1,25 @@
+table { 
+    display:table; 
+    font-size:14px; 
+    margin:8px; 
+    font-family: Verdana; 
+    width: 100%;
+} 
+tr{ 
+    display:table-row; 
+    text-align:center; 
+    border: 1px solid silver; 
+    padding:10px; 
+    background-color:whitesmoke; 
+} 
+
+td{
+    text-align:center;
+}
+#name,data-header { 
+    text-align:left;
+}
+
+.table td #name{
+    text-align:left;
+}

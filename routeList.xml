@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes>
+   <route>
+      <Name>Things I Never Learned</Name>
+      <Location>Jimmy Cliff</Location>
+      <URL>things-i-never-learned</URL>
+      <AvgStars>2.2</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.80417</AreaLatitude>
+      <AreaLongitude>-71.84037</AreaLongitude>
+   </route>
+   <route>
+      <Name>To Love Honor and Belay</Name>
+      <Location>Jimmy Cliff</Location>
+      <URL>to-love-honor-and-belay</URL>
+      <AvgStars>2.0</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.80417</AreaLatitude>
+      <AreaLongitude>-71.84037</AreaLongitude>
+   </route>
+   <route>
+      <Name>War and  Peace</Name>
+      <Location>Bonsai</Location>
+      <URL>war-and-peace</URL>
+      <AvgStars>2.7</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.80288</AreaLatitude>
+      <AreaLongitude>-71.83926</AreaLongitude>
+   </route>
+   <route>
+      <Name>Bolt And Run</Name>
+      <Location>5.8 Crag</Location>
+      <URL>bolt-and-run</URL>
+      <AvgStars>2.3</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.80105</AreaLatitude>
+      <AreaLongitude>-71.83823</AreaLongitude>
+   </route>
+   <route>
+      <Name>Yoda</Name>
+      <Location>Darth Vader</Location>
+      <URL>yoda</URL>
+      <AvgStars>3.0</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.80352</AreaLatitude>
+      <AreaLongitude>-71.8404</AreaLongitude>
+   </route>
+   <route>
+      <Name>Oby-won Ryobi</Name>
+      <Location>Darth Vader</Location>
+      <URL>oby-won-ryobi</URL>
+      <AvgStars>3.1</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.80352</AreaLatitude>
+      <AreaLongitude>-71.8404</AreaLongitude>
+   </route>
+   <route>
+      <Name>Orange Crush (retro-bolted)</Name>
+      <Location>Orange Crush</Location>
+      <URL>orange-crush-retro-bolted</URL>
+      <AvgStars>2.2</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>50</Length>
+      <AreaLatitude>43.80293</AreaLatitude>
+      <AreaLongitude>-71.83513</AreaLongitude>
+   </route>
+   <route>
+      <Name>Night Crawler</Name>
+      <Location>New Wave</Location>
+      <URL>night-crawler</URL>
+      <AvgStars>2.1</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>40</Length>
+      <AreaLatitude>43.80285</AreaLatitude>
+      <AreaLongitude>-71.83444</AreaLongitude>
+   </route>
+   <route>
+      <Name>Smokestack</Name>
+      <Location>New Wave</Location>
+      <URL>smokestack</URL>
+      <AvgStars>3.4</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.80285</AreaLatitude>
+      <AreaLongitude>-71.83444</AreaLongitude>
+   </route>
+   <route>
+      <Name>Curly for President</Name>
+      <Location>The Parking Lot Wall</Location>
+      <URL>curly-for-president</URL>
+      <AvgStars>2.7</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>-5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.80274</AreaLatitude>
+      <AreaLongitude>-71.83029</AreaLongitude>
+   </route>
+   <route>
+      <Name>Quinn/Callaghan</Name>
+      <Location>The Parking Lot Wall</Location>
+      <URL>quinncallaghan</URL>
+      <AvgStars>2.5</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>-5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>80</Length>
+      <AreaLatitude>43.80274</AreaLatitude>
+      <AreaLongitude>-71.83029</AreaLongitude>
+   </route>
+   <route>
+      <Name>Easily Aroused</Name>
+      <Location>The Parking Lot Wall</Location>
+      <URL>easily-aroused</URL>
+      <AvgStars>1.7</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.80274</AreaLatitude>
+      <AreaLongitude>-71.83029</AreaLongitude>
+   </route>
+   <route>
+      <Name>Egg McMeadows</Name>
+      <Location>The Parking Lot Wall</Location>
+      <URL>egg-mcmeadows</URL>
+      <AvgStars>2.3</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.80274</AreaLatitude>
+      <AreaLongitude>-71.83029</AreaLongitude>
+   </route>
+   <route>
+      <Name>Tumbling Dice</Name>
+      <Location>The Prudential</Location>
+      <URL>tumbling-dice</URL>
+      <AvgStars>2.2</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>-5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>75</Length>
+      <AreaLatitude>43.80513</AreaLatitude>
+      <AreaLongitude>-71.84452</AreaLongitude>
+   </route>
+   <route>
+      <Name>Thou Shalt Not Covet</Name>
+      <Location>No Money Down (Left)</Location>
+      <URL>thou-shalt-not-covet</URL>
+      <AvgStars>2.0</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.8023</AreaLatitude>
+      <AreaLongitude>-71.83202</AreaLongitude>
+   </route>
+   <route>
+      <Name>Hippos on Parade</Name>
+      <Location>Center Section</Location>
+      <URL>hippos-on-parade</URL>
+      <AvgStars>2.7</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.80231</AreaLatitude>
+      <AreaLongitude>-71.83173</AreaLongitude>
+   </route>
+   <route>
+      <Name>Lies and Propaganda</Name>
+      <Location>Center Section</Location>
+      <URL>lies-and-propaganda</URL>
+      <AvgStars>2.6</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>55</Length>
+      <AreaLatitude>43.80231</AreaLatitude>
+      <AreaLongitude>-71.83173</AreaLongitude>
+   </route>
+   <route>
+      <Name>Bridge to Nowhere</Name>
+      <Location>Yellowknife Buttress</Location>
+      <URL>bridge-to-nowhere</URL>
+      <AvgStars>3.0</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.80532</AreaLatitude>
+      <AreaLongitude>-71.84351</AreaLongitude>
+   </route>
+   <route>
+      <Name>Couch Potato</Name>
+      <Location>Below the New Wave</Location>
+      <URL>couch-potato</URL>
+      <AvgStars>2.0</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>30</Length>
+      <AreaLatitude>43.8021</AreaLatitude>
+      <AreaLongitude>-71.8367</AreaLongitude>
+   </route>
+   <route>
+      <Name>Pussyfoot</Name>
+      <Location>The Hinterlands</Location>
+      <URL>pussyfoot</URL>
+      <AvgStars>2.3</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>75</Length>
+      <AreaLatitude>43.80505</AreaLatitude>
+      <AreaLongitude>-71.84309</AreaLongitude>
+   </route>
+   <route>
+      <Name>Black Slabbath</Name>
+      <Location>The Hinterlands</Location>
+      <URL>black-slabbath</URL>
+      <AvgStars>2.5</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.80505</AreaLatitude>
+      <AreaLongitude>-71.84309</AreaLongitude>
+   </route>
+   <route>
+      <Name>Men In White Suits</Name>
+      <Location>Armed and Dangerous (Main Cliff Left)</Location>
+      <URL>men-in-white-suits</URL>
+      <AvgStars>2.3</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.80202</AreaLatitude>
+      <AreaLongitude>-71.83678</AreaLongitude>
+   </route>
+   <route>
+      <Name>Green Mile</Name>
+      <Location>Armed and Dangerous (Main Cliff Left)</Location>
+      <URL>green-mile</URL>
+      <AvgStars>2.4</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.80202</AreaLatitude>
+      <AreaLongitude>-71.83678</AreaLongitude>
+   </route>
+   <route>
+      <Name>Panama Hat (aka Mister Meaner)</Name>
+      <Location>Armed and Dangerous (Main Cliff Left)</Location>
+      <URL>panama-hat-aka-mister-meaner</URL>
+      <AvgStars>2.4</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>60</Length>
+      <AreaLatitude>43.80202</AreaLatitude>
+      <AreaLongitude>-71.83678</AreaLongitude>
+   </route>
+   <route>
+      <Name>Puppy Love</Name>
+      <Location>Kennel Wall</Location>
+      <URL>puppy-love</URL>
+      <AvgStars>2.0</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.80329</AreaLatitude>
+      <AreaLongitude>-71.83444</AreaLongitude>
+   </route>
+   <route>
+      <Name>I'm Talking to The Dog</Name>
+      <Location>Kennel Wall</Location>
+      <URL>im-talking-to-the-dog</URL>
+      <AvgStars>1.6</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.80329</AreaLatitude>
+      <AreaLongitude>-71.83444</AreaLongitude>
+   </route>
+   <route>
+      <Name>Yer Anus</Name>
+      <Location>Starship Enterprise</Location>
+      <URL>yer-anus</URL>
+      <AvgStars>2.3</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.8021</AreaLatitude>
+      <AreaLongitude>-71.8367</AreaLongitude>
+   </route>
+   <route>
+      <Name>Space</Name>
+      <Location>Starship Enterprise</Location>
+      <URL>space</URL>
+      <AvgStars>2.6</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.8021</AreaLatitude>
+      <AreaLongitude>-71.8367</AreaLongitude>
+   </route>
+   <route>
+      <Name>Sea Breeze</Name>
+      <Location>The Crow's Nest</Location>
+      <URL>sea-breeze</URL>
+      <AvgStars>1.7</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.80539</AreaLatitude>
+      <AreaLongitude>-71.84295</AreaLongitude>
+   </route>
+   <route>
+      <Name>The Trad's Nest</Name>
+      <Location>The Crow's Nest</Location>
+      <URL>the-trads-nest</URL>
+      <AvgStars>1.9</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>40</Length>
+      <AreaLatitude>43.80539</AreaLatitude>
+      <AreaLongitude>-71.84295</AreaLongitude>
+   </route>
+   <route>
+      <Name>Clambake</Name>
+      <Location>The Crow's Nest</Location>
+      <URL>clambake</URL>
+      <AvgStars>1.9</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>40</Length>
+      <AreaLatitude>43.80539</AreaLatitude>
+      <AreaLongitude>-71.84295</AreaLongitude>
+   </route>
+   <route>
+      <Name>Ill Gotten Booty</Name>
+      <Location>The Crow's Nest</Location>
+      <URL>ill-gotten-booty</URL>
+      <AvgStars>1.9</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.80539</AreaLatitude>
+      <AreaLongitude>-71.84295</AreaLongitude>
+   </route>
+   <route>
+      <Name>Charity Case</Name>
+      <Location>Main Cliff Right</Location>
+      <URL>charity-case</URL>
+      <AvgStars>2.1</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.8027</AreaLatitude>
+      <AreaLongitude>-71.83554</AreaLongitude>
+   </route>
+   <route>
+      <Name>Personal Boundaries</Name>
+      <Location>Boundary Rock</Location>
+      <URL>personal-boundaries</URL>
+      <AvgStars>1.7</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.8021</AreaLatitude>
+      <AreaLongitude>-71.8367</AreaLongitude>
+   </route>
+   <route>
+      <Name>B-B-Buttress</Name>
+      <Location>The Northwest Territories</Location>
+      <URL>b-b-buttress</URL>
+      <AvgStars>3.1</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.80478</AreaLatitude>
+      <AreaLongitude>-71.84537</AreaLongitude>
+   </route>
+   <route>
+      <Name>California Chrome</Name>
+      <Location>The Northwest Territories</Location>
+      <URL>california-chrome</URL>
+      <AvgStars>2.6</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>100</Length>
+      <AreaLatitude>43.80478</AreaLatitude>
+      <AreaLongitude>-71.84537</AreaLongitude>
+   </route>
+   <route>
+      <Name>Sodbuster</Name>
+      <Location>Buffalo Pit</Location>
+      <URL>sodbuster</URL>
+      <AvgStars>2.2</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>-5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>80</Length>
+      <AreaLatitude>43.80386</AreaLatitude>
+      <AreaLongitude>-71.84992</AreaLongitude>
+   </route>
+   <route>
+      <Name>Stone Worms</Name>
+      <Location>Buffalo Pit</Location>
+      <URL>stone-worms</URL>
+      <AvgStars>2.5</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>-5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>90</Length>
+      <AreaLatitude>43.80386</AreaLatitude>
+      <AreaLongitude>-71.84992</AreaLongitude>
+   </route>
+   <route>
+      <Name>Scratchy</Name>
+      <Location>Buffalo Pit</Location>
+      <URL>scratchy</URL>
+      <AvgStars>1.9</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>35</Length>
+      <AreaLatitude>43.80386</AreaLatitude>
+      <AreaLongitude>-71.84992</AreaLongitude>
+   </route>
+   <route>
+      <Name>Fresh Fish</Name>
+      <Location>Buffalo Pit</Location>
+      <URL>fresh-fish</URL>
+      <AvgStars>2.6</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>80</Length>
+      <AreaLatitude>43.80386</AreaLatitude>
+      <AreaLongitude>-71.84992</AreaLongitude>
+   </route>
+   <route>
+      <Name>Drip of Fools</Name>
+      <Location>The G-Spot</Location>
+      <URL>drip-of-fools</URL>
+      <AvgStars>1.8</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>30</Length>
+      <AreaLatitude>43.80263</AreaLatitude>
+      <AreaLongitude>-71.83398</AreaLongitude>
+   </route>
+   <route>
+      <Name>Trundle Love</Name>
+      <Location>Triple Corners Center</Location>
+      <URL>trundle-love</URL>
+      <AvgStars>2.4</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>30</Length>
+      <AreaLatitude>43.80401</AreaLatitude>
+      <AreaLongitude>-71.84229</AreaLongitude>
+   </route>
+   <route>
+      <Name>Trigger Happy</Name>
+      <Location>Triple Corners Right</Location>
+      <URL>trigger-happy</URL>
+      <AvgStars>2.6</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.80403</AreaLatitude>
+      <AreaLongitude>-71.84178</AreaLongitude>
+   </route>
+   <route>
+      <Name>Left El Diego</Name>
+      <Location>Triple Corners Right</Location>
+      <URL>left-el-diego</URL>
+      <AvgStars>2.4</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.80403</AreaLatitude>
+      <AreaLongitude>-71.84178</AreaLongitude>
+   </route>
+   <route>
+      <Name>Jigsaw Puzzle</Name>
+      <Location>Triple Corners Right</Location>
+      <URL>jigsaw-puzzle</URL>
+      <AvgStars>1.0</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9+ PG13</Rating>
+      <Pitches>1</Pitches>
+      <Length>35</Length>
+      <AreaLatitude>43.80403</AreaLatitude>
+      <AreaLongitude>-71.84178</AreaLongitude>
+   </route>
+   <route>
+      <Name>Spanning the Gap</Name>
+      <Location>Gem Hunter</Location>
+      <URL>spanning-the-gap</URL>
+      <AvgStars>2.3</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.8415</AreaLatitude>
+      <AreaLongitude>-71.8233</AreaLongitude>
+   </route>
+   <route>
+      <Name>Tourmaline Dreams</Name>
+      <Location>Gem Hunter</Location>
+      <URL>tourmaline-dreams</URL>
+      <AvgStars>1.6</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>0</Length>
+      <AreaLatitude>43.8415</AreaLatitude>
+      <AreaLongitude>-71.8233</AreaLongitude>
+   </route>
+   <route>
+      <Name>Gem Hunter</Name>
+      <Location>Gem Hunter</Location>
+      <URL>gem-hunter</URL>
+      <AvgStars>1.3</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>45</Length>
+      <AreaLatitude>43.8415</AreaLatitude>
+      <AreaLongitude>-71.8233</AreaLongitude>
+   </route>
+   <route>
+      <Name>Cozened Stone</Name>
+      <Location>The Very Nice Crag</Location>
+      <URL>cozened-stone</URL>
+      <AvgStars>3.2</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>80</Length>
+      <AreaLatitude>43.80545</AreaLatitude>
+      <AreaLongitude>-71.84486</AreaLongitude>
+   </route>
+   <route>
+      <Name>Rippopotamus</Name>
+      <Location>The Very Nice Crag</Location>
+      <URL>rippopotamus</URL>
+      <AvgStars>1.8</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>25</Length>
+      <AreaLatitude>43.80545</AreaLatitude>
+      <AreaLongitude>-71.84486</AreaLongitude>
+   </route>
+   <route>
+      <Name>Flaming Arrow</Name>
+      <Location>Slab Wall</Location>
+      <URL>flaming-arrow</URL>
+      <AvgStars>2.4</AvgStars>
+      <YourStars>-1</YourStars>
+      <NameType>Sport</NameType>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>50</Length>
+      <AreaLatitude>43.80299</AreaLatitude>
+      <AreaLongitude>-71.8488</AreaLongitude>
+   </route>
+</routes>

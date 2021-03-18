@@ -1,0 +1,20 @@
+#!/bin/bash
+
+CSVFile=$1
+
+export CLASSPATH=/usr/local/Cellar/saxon/10.3/libexec/saxon-he-10.3.jar
+
+DestinationFile=$2
+
+#
+# Strip Quotes from file
+#
+
+
+
+#        remove web links     change word route to name Remove location levels  1st line spaces   remove commas in quotes        remove "     Remove empty spaces
+cat "$1" | sed 's/:.*\///g' | sed 's/Route/Name/g' | sed 's/ >.*,https/,/g' | sed '1s/ //g' |                               tr -d '"' | sed 's/,,/,0,/g' > "$2"
+
+java net.sf.saxon.Transform -it:csvConvert csvconvert.xsl root=routes record=route csvFile=routeFinder.txt -o:routeList.xml
+java net.sf.saxon.Transform routeList.xml routeList.xsl -o:routeList.html
+

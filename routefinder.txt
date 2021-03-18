@@ -1,0 +1,52 @@
+Name,Location,URL,AvgStars,YourStars,NameType,Rating,Pitches,Length,AreaLatitude,AreaLongitude
+Things I Never Learned,Jimmy Cliff,things-i-never-learned,2.2,-1,Sport,5.9,1,0,43.80417,-71.84037
+To Love Honor and Belay,Jimmy Cliff,to-love-honor-and-belay,2.0,-1,Sport,5.9,1,0,43.80417,-71.84037
+War and  Peace,Bonsai,war-and-peace,2.7,-1,Sport,5.9,1,0,43.80288,-71.83926
+Bolt And Run,5.8 Crag,bolt-and-run,2.3,-1,Sport,5.9,1,0,43.80105,-71.83823
+Yoda,Darth Vader,yoda,3.0,-1,Sport,5.9,1,0,43.80352,-71.8404
+Oby-won Ryobi,Darth Vader,oby-won-ryobi,3.1,-1,Sport,5.9,1,0,43.80352,-71.8404
+Orange Crush (retro-bolted),Orange Crush,orange-crush-retro-bolted,2.2,-1,Sport,5.9,1,50,43.80293,-71.83513
+Night Crawler,New Wave,night-crawler,2.1,-1,Sport,5.9,1,40,43.80285,-71.83444
+Smokestack,New Wave,smokestack,3.4,-1,Sport,5.9,1,0,43.80285,-71.83444
+Curly for President,The Parking Lot Wall,curly-for-president,2.7,-1,Sport,-5.9,1,0,43.80274,-71.83029
+Quinn/Callaghan,The Parking Lot Wall,quinncallaghan,2.5,-1,Sport,-5.9,1,80,43.80274,-71.83029
+Easily Aroused,The Parking Lot Wall,easily-aroused,1.7,-1,Sport,5.9,1,0,43.80274,-71.83029
+Egg McMeadows,The Parking Lot Wall,egg-mcmeadows,2.3,-1,Sport,5.9,1,0,43.80274,-71.83029
+Tumbling Dice,The Prudential,tumbling-dice,2.2,-1,Sport,-5.9,1,75,43.80513,-71.84452
+Thou Shalt Not Covet,No Money Down (Left),thou-shalt-not-covet,2.0,-1,Sport,5.9,1,0,43.8023,-71.83202
+Hippos on Parade,Center Section,hippos-on-parade,2.7,-1,Sport,5.9,1,0,43.80231,-71.83173
+Lies and Propaganda,Center Section,lies-and-propaganda,2.6,-1,Sport,5.9,1,55,43.80231,-71.83173
+Bridge to Nowhere,Yellowknife Buttress,bridge-to-nowhere,3.0,-1,Sport,5.9,1,0,43.80532,-71.84351
+Couch Potato,Below the New Wave,couch-potato,2.0,-1,Sport,5.9,1,30,43.8021,-71.8367
+Pussyfoot,The Hinterlands,pussyfoot,2.3,-1,Sport,5.9,1,75,43.80505,-71.84309
+Black Slabbath,The Hinterlands,black-slabbath,2.5,-1,Sport,5.9,1,0,43.80505,-71.84309
+Men In White Suits,Armed and Dangerous (Main Cliff Left),men-in-white-suits,2.3,-1,Sport,5.9,1,0,43.80202,-71.83678
+Green Mile,Armed and Dangerous (Main Cliff Left),green-mile,2.4,-1,Sport,5.9,1,0,43.80202,-71.83678
+Panama Hat (aka Mister Meaner),Armed and Dangerous (Main Cliff Left),panama-hat-aka-mister-meaner,2.4,-1,Sport,5.9,1,60,43.80202,-71.83678
+Puppy Love,Kennel Wall,puppy-love,2.0,-1,Sport,5.9,1,0,43.80329,-71.83444
+I'm Talking to The Dog,Kennel Wall,im-talking-to-the-dog,1.6,-1,Sport,5.9,1,0,43.80329,-71.83444
+Yer Anus,Starship Enterprise,yer-anus,2.3,-1,Sport,5.9,1,0,43.8021,-71.8367
+Space,Starship Enterprise,space,2.6,-1,Sport,5.9,1,0,43.8021,-71.8367
+Sea Breeze,The Crow's Nest,sea-breeze,1.7,-1,Sport,5.9,1,0,43.80539,-71.84295
+The Trad's Nest,The Crow's Nest,the-trads-nest,1.9,-1,Sport,5.9,1,40,43.80539,-71.84295
+Clambake,The Crow's Nest,clambake,1.9,-1,Sport,5.9,1,40,43.80539,-71.84295
+Ill Gotten Booty,The Crow's Nest,ill-gotten-booty,1.9,-1,Sport,5.9,1,0,43.80539,-71.84295
+Charity Case,Main Cliff Right,charity-case,2.1,-1,Sport,5.9,1,0,43.8027,-71.83554
+Personal Boundaries,Boundary Rock,personal-boundaries,1.7,-1,Sport,5.9,1,0,43.8021,-71.8367
+B-B-Buttress,The Northwest Territories,b-b-buttress,3.1,-1,Sport,5.9,1,0,43.80478,-71.84537
+California Chrome,The Northwest Territories,california-chrome,2.6,-1,Sport,5.9,1,100,43.80478,-71.84537
+Sodbuster,Buffalo Pit,sodbuster,2.2,-1,Sport,-5.9,1,80,43.80386,-71.84992
+Stone Worms,Buffalo Pit,stone-worms,2.5,-1,Sport,-5.9,1,90,43.80386,-71.84992
+Scratchy,Buffalo Pit,scratchy,1.9,-1,Sport,5.9,1,35,43.80386,-71.84992
+Fresh Fish,Buffalo Pit,fresh-fish,2.6,-1,Sport,5.9,1,80,43.80386,-71.84992
+Drip of Fools,The G-Spot,drip-of-fools,1.8,-1,Sport,5.9,1,30,43.80263,-71.83398
+Trundle Love,Triple Corners Center,trundle-love,2.4,-1,Sport,5.9,1,30,43.80401,-71.84229
+Trigger Happy,Triple Corners Right,trigger-happy,2.6,-1,Sport,5.9,1,0,43.80403,-71.84178
+Left El Diego,Triple Corners Right,left-el-diego,2.4,-1,Sport,5.9,1,0,43.80403,-71.84178
+Jigsaw Puzzle,Triple Corners Right,jigsaw-puzzle,1.0,-1,Sport,5.9+ PG13,1,35,43.80403,-71.84178
+Spanning the Gap,Gem Hunter,spanning-the-gap,2.3,-1,Sport,5.9,1,0,43.8415,-71.8233
+Tourmaline Dreams,Gem Hunter,tourmaline-dreams,1.6,-1,Sport,5.9,1,0,43.8415,-71.8233
+Gem Hunter,Gem Hunter,gem-hunter,1.3,-1,Sport,5.9,1,45,43.8415,-71.8233
+Cozened Stone,The Very Nice Crag,cozened-stone,3.2,-1,Sport,5.9,1,80,43.80545,-71.84486
+Rippopotamus,The Very Nice Crag,rippopotamus,1.8,-1,Sport,5.9,1,25,43.80545,-71.84486
+Flaming Arrow,Slab Wall,flaming-arrow,2.4,-1,Sport,5.9,1,50,43.80299,-71.8488
