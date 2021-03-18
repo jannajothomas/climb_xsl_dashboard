@@ -55,6 +55,7 @@
                       <form method="POST" action="index.php">
                         <xsl:for-each select="routes/route">
                             <xsl:variable name="i" select="position()" />
+                            <xsl:variable name="thisname" select = "Name" />
                             <tr>
                                 <th scope="row">
                                     <xsl:copy>
@@ -67,7 +68,11 @@
                                 <td><xsl:value-of select="AvgStars" /></td>
                                 <td> 
                                     <div class="form-check">
-                                        <input class="form-check-input position-static checkbox" type="checkbox" id="blankCheckbox" value="option1" aria-label="..." onchange="$('#form').post();" name="checkbox"/>
+                                        <input class="form-check-input position-static checkbox" 
+                                               type="checkbox" 
+                                               id="blankCheckbox" 
+                                               value="$thisname" 
+                                                aria-label="..." onchange="$('#form').post();" name="checkbox"/>
                                     </div>
                                 </td>
                                 <td>
