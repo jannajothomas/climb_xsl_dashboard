@@ -1,6 +1,6 @@
 <?php
 
-	if (($_POST["btn_sub"] == "") 
+	if ($_POST["btn_sub"] == "") 
         {  
 		echo you successfully posted;		 
 	} 
