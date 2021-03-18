@@ -55,7 +55,7 @@
                       <form method="POST" action="index.php">
                         <xsl:for-each select="routes/route">
                             <xsl:variable name="i" select="position()" />
-                            <xsl:variable name="thisname">
+                            <xsl:variable name="thisName">
                                 <xsl:value-of select="Name" />
                             </xsl:variable>
                             <tr>
