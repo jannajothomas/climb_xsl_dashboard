@@ -52,7 +52,7 @@
                     </tr>
                   </thead>
                   <tbody>
-                      <form id="form" method="post" action="">
+                      <form method="post" action="edittool.asp">
                         <xsl:for-each select="routes/route">
                             <tr>
                                 <th scope="row">1</th>
@@ -73,7 +73,7 @@
                                         </script>
                                 </td>
                                 <td>
-                                    <button type="button" class="btn btn-secondary btn-lg" disabled="yes">Update</button>
+                                    <input type="submit" id="btn_sub" name="btn_sub" class="btn btn-secondary btn-lg" value="Submit" />
                                     
                                 </td>
                                 

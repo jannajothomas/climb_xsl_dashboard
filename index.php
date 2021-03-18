@@ -1,8 +1,8 @@
 <?php
 
-	if (isset($_POST["checkbox"])) { 
-		$post_data = file_get_contents('php://input'); 
-		echo "<div> POST BODY <br>".$post_data."</div>";		 
+	if (($_POST["btn_sub"] == "") 
+        {  
+		echo you successfully posted;		 
 	} 
 
 
