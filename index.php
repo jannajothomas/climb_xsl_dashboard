@@ -2,7 +2,7 @@
 
 	if ($_POST["btn_sub"] == "") 
         {  
-		echo you successfully posted;		 
+		echo "you successfully posted";		 
 	   } 
 
 
