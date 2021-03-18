@@ -52,7 +52,7 @@
                     </tr>
                   </thead>
                   <tbody>
-                      <form method="POST" action="routeList.php">
+                      <form method="POST" action="index.php">
                         <xsl:for-each select="routes/route">
                             <tr>
                                 <th scope="row">1</th>
