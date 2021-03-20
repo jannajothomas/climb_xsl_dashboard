@@ -21,6 +21,24 @@ session_start();
 
     //pull ticks and save as ticks.csv
         //https://www.mountainproject.com/user/200907314/janna-thomas/tick-export
+    
+    $ticksCSV = file_get_contents("https://www.mountainproject.com/user/200907314/janna-thomas/tick-export");
+    $domTicksCSV = new DOMDocument();
+    $domTicksCSV->load($ticksCSV);
+
+    #echo $ticksCSV;    looks fine
+    $csvConvert=newDOMDocument();
+    $csvConvert->load('csvconvert.xsl');
+    
+    $csvConvertProcessor = new XSLTProcessor();
+    $csvConvertProcessor->importStyleSheet($csvConvert);
+
+    echo $csvConvertProcessor->transformToXML($ticksCSV);
+
+    $ticksCSVFile = fopen("ticks.csv","w");
+    fwrite($ticksCSVFile, $csvConvertProcessor);
+    fclose($ticksCSVFile);
+
 
     //pull routes and save as routes.csv
 $ticksCSV = file_get_contents("https://www.mountainproject.com/user/200907314/janna-thomas/tick-export");
