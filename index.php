@@ -27,11 +27,11 @@ session_start();
     $domTicksCSV->load($ticksCSV);
 
     #echo $ticksCSV;    looks fine
-    $csvConvert=newDOMDocument();
-    $csvConvert->load('csvconvert.xsl');
+    //$csvConvert=newDOMDocument();
+    //$csvConvert->load('csvconvert.xsl');
     
     //$csvConvertProcessor = new XSLTProcessor();
-    $csvConvertProcessor->importStyleSheet($csvConvert);
+    //$csvConvertProcessor->importStyleSheet($csvConvert);
 
     //echo $csvConvertProcessor->transformToXML($ticksCSV);
 
