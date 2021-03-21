@@ -17,9 +17,9 @@ DestinationFile=$2
 
 #cat "$1" |  sed -e 's/\(\"[^",]\+\),\([^",]*\)/\1 \2/g' -e 's/\"//g'  > "$2"
 
-cat "$1" | awk -F'"' -v OFS='' '{ for (i=2; i<=NF; i+=2) gsub(",", "", $i) } 1' > "$2"
+cat "$1" | awk -F'"' -v OFS='' '{ for (i=2; i<=NF; i+=2) gsub(",", "", $i) } 1'
 
 
 
-java net.sf.saxon.Transform -it:csvConvert csvconvert.xsl root=routes record=route csvFile="$2" -o:routeList.xml
+#java net.sf.saxon.Transform -it:csvConvert csvconvert.xsl root=routes record=route csvFile="$2" -o:routeList.xml
 
