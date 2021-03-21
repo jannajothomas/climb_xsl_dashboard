@@ -19,6 +19,7 @@ session_start();
     //get user name if desired
 
     //pull ticks and save as ticks.csv
+    echo "Test";
     $tickURL="https://www.mountainproject.com/user/200907314/janna-thomas/tick-export";
     
     $ticksCSV = file_get_contents($tickURL);
@@ -29,12 +30,12 @@ session_start();
 
     $csvConvert=newDOMDocument();
     $csvConvert->load('csvconvert.xsl');
-    
+    echo "test2";
     $csvConvertProcessor = new XSLTProcessor();
     $csvConvertProcessor->importStyleSheet($csvConvert);
     
     echo $csvConvertProcessor->transformToXML($ticksCSV);
-
+    echo "test3";
     //$ticksCSVFile = fopen("ticks.csv","w");
     //fwrite($ticksCSVFile, $csvConvertProcessor);
     //fclose($ticksCSVFile);
