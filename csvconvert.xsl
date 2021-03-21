@@ -31,6 +31,8 @@
         <xsl:element name="{$root}">
             <xsl:for-each select="$rows[position()>1]">
                 <xsl:element name="{$record}">
+                    <!--https://stackoverflow.com/questions/21105360/regex-find-comma-not-inside-quotes-->
+    
                     <xsl:variable name="dataValues" select="tokenize(., ',')" as="xs:string*" />
                     <xsl:for-each select="$elemNames">
                         <xsl:variable name="thisElementName" select="." />

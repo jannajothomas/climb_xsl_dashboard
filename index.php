@@ -22,7 +22,9 @@ session_start();
     $tickURL="https://www.mountainproject.com/user/200907314/janna-thomas/tick-export";
     
     $ticksCSV = file_get_contents($tickURL);
-    $domTicksCSV = new DOMDocument();
+    
+
+    /*$domTicksCSV = new DOMDocument();
     $domTicksCSV->load($ticksCSV);
 
     $csvConvert=newDOMDocument();
@@ -31,13 +33,13 @@ session_start();
     $csvConvertProcessor = new XSLTProcessor();
     $csvConvertProcessor->importStyleSheet($csvConvert);
     
-    echo $csvConvertProcessor->transformToXML($ticksCSV);
+    echo $csvConvertProcessor->transformToXML($ticksCSV);*/
 
     //$ticksCSVFile = fopen("ticks.csv","w");
     //fwrite($ticksCSVFile, $csvConvertProcessor);
     //fclose($ticksCSVFile);
 
-
+/*
     //pull routes and save as routes.csv
     $routesURL="https://www.mountainproject.com/route-finder-export?type=rock&diffMinrock=1000&diffMinboulder=20000&diffMinaid=70000&diffMinice=30000&diffMinmixed=50000&diffMaxrock=12400&diffMaxboulder=20050&diffMaxaid=75260&diffMaxice=38500&diffMaxmixed=60000&is_sport_climb=1&stars=0&pitches=0&selectedIds=105867829"
         
@@ -69,5 +71,5 @@ $proc = new XSLTProcessor();
 $proc->importStyleSheet($xsl);
  
 //Create HTML output
-echo $proc->transformToXML($xml);
+echo $proc->transformToXML($xml);*/
 ?> 

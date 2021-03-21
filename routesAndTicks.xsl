@@ -21,12 +21,9 @@
 <xsl:stylesheet version="1.0"
      xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
    
-    <xsl:variable name="ticksDoc" select="document('routelist.xml')" />
-    <xsl:variable name="routesDoc" select="document('tickList.xml')" />
+    <xsl:variable name="ticksDoc" select="document('tickList.xml')" />
     
-    <xsl:key name="routeNames" match="property" use="Route" />
-    <xsl:key name="tKey" match="Date" use="@id" />
-    <xsl:key name="rKey" match="Route" use="@id" />
+    <xsl:key name="tKey" match="Route" use="@id" />
 
     <xsl:output method="html"
       doctype-system="about:legacy-compat"

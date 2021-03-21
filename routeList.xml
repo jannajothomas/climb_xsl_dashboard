@@ -404,17 +404,17 @@
       <Area_Longitude>-71.84992</Area_Longitude>
    </route>
    <route>
-      <Route>"To Love</Route>
-      <Location> Honor and Belay"</Location>
-      <URL>"Jimmy Cliff &gt; *Rumney &gt; New Hampshire"</URL>
-      <Avg_Stars>https://www.mountainproject.com/route/106276559/to-love-honor-and-belay</Avg_Stars>
-      <Your_Stars>2.0</Your_Stars>
-      <Route_Type>-1</Route_Type>
-      <Rating>Sport</Rating>
-      <Pitches>5.9</Pitches>
-      <Length>1</Length>
-      <Area_Latitude/>
-      <Area_Longitude>43.80417</Area_Longitude>
+      <Route>To Love Honor and Belay</Route>
+      <Location>Jimmy Cliff &gt; *Rumney &gt; New Hampshire</Location>
+      <URL>https://www.mountainproject.com/route/106276559/to-love-honor-and-belay</URL>
+      <Avg_Stars>2.0</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length/>
+      <Area_Latitude>43.80417</Area_Latitude>
+      <Area_Longitude>-71.84037</Area_Longitude>
    </route>
    <route>
       <Route>Clambake</Route>

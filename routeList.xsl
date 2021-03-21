@@ -16,6 +16,10 @@
       encoding="UTF-8"
       indent="yes" />
 
+    <xsl:variable name="ticksDoc" select="document('tickList.xml')"  />
+    
+    <xsl:key name="tickKey" match="route" use="/routes/route/Route" />
+    
    <xsl:template match="/">
       <html>
          <head>
@@ -90,11 +94,25 @@
                                 <td><xsl:value-of select="replace($justCragName, '&quot;','')" /></td>
                                 <td><xsl:value-of select="Rating" /></td>
                                 <td><xsl:value-of select="Avg_Stars" /></td>
-                                <td> 
-                                    
+                                <td>
+                                   <!-- |<xsl:value-of select="tickKey" />|-->
                                 </td>
                                 <td>
+                                    <xsl:variable name="tickID" select="@route" />
+                                    <xsl:for-each select="$ticksDoc">
+                                        <!--<xsl:value-of select="/routes/route/Date" />
+                                        <xsl:value-of select="/route" />
+                                        <xsl:value-of select="/route/Date" />
+                                        <xsl:value-of select="$routeString" />-->
+                                        <xsl:value-of select="key('tickKey', $routeString)/Date" /> 
+                                    </xsl:for-each>
                                     
+                                    
+                                    
+                                    
+                                   <!-- |<xsl:value-of select="route" />|
+                                    
+                                    (<xsl:value-of select="key('tickKey', $tickID)/Date" /> )-->
                                 </td>
                                 <td>
                                
