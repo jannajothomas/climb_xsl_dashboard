@@ -24,13 +24,13 @@ session_start();
     //echo $testOutput;
     $tickURL="https://www.mountainproject.com/user/200907314/janna-thomas/tick-export";
     $ticksCSV = file_get_contents($tickURL);
-    file_put_contents ('/rawTicks.csv', $ticksCSV);
+    file_put_contents ('rawTicks.csv', $ticksCSV);
     //echo $ticksCSV;
     
     $routesURL="https://www.mountainproject.com/route-finder-export?type=rock&diffMinrock=1000&diffMinboulder=20000&diffMinaid=70000&diffMinice=30000&diffMinmixed=50000&diffMaxrock=12400&diffMaxboulder=20050&diffMaxaid=75260&diffMaxice=38500&diffMaxmixed=60000&is_sport_climb=1&stars=0&pitches=0&selectedIds=105867829";
         
     $routesCSV = file_get_contents($routesURL);
-    file_put_contents ('/rawRoutes.csv', $routesCSV);
+    file_put_contents ('rawRoutes.csv', $routesCSV);
 
 
 
