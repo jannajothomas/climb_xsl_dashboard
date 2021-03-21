@@ -30,7 +30,7 @@ session_start();
         
     $routesCSV = file_get_contents($routesURL);
     //echo $routesCSV;
-    $output = shell_exec("./commaIssue $routesCSV");
+    $output = shell_exec('./commaIssue $routesCSV');
     echo $output;
 
 echo "Test2";
