@@ -34,12 +34,17 @@ session_start();
 
 
     $Routes = shell_exec('./commaIssue rawRoutes.csv');
-    file_put_contents ('noCommaRoutes.csv', $output);
+    file_put_contents ('noCommaRoutes.csv', $Routes);
     
     $Ticks = shell_exec('./commaIssue rawTicks.csv');
-    file_put_contents ('noCommaTicks.csv', $output);
+    file_put_contents ('noCommaTicks.csv', $Ticks);
 
   //  echo $output;
+    //$routesCSV = file_get_contents($routesURL);
+    //$domRoutesCSV = new DOMDocument();
+    //$domRoutesCSV->load($routesCSV);
+
+
 
     $domTicksCSV = new DOMDocument();
     $domTicksCSV->load($Routes);
