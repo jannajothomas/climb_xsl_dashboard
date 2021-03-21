@@ -22,7 +22,7 @@ session_start();
 
     $tickURL="https://www.mountainproject.com/user/200907314/janna-thomas/tick-export";
     $ticksCSV = file_get_contents($tickURL);
-
+    echo $ticksCSV;
     $ticksCSVFile = fopen("ticks.csv","w");
     fwrite($ticksCSVFile, $ticksCSV);
     fclose($ticksCSVFile);
