@@ -24,7 +24,7 @@ session_start();
     $ticksCSV = file_get_contents($tickURL);
     
 
-    /*$domTicksCSV = new DOMDocument();
+    $domTicksCSV = new DOMDocument();
     $domTicksCSV->load($ticksCSV);
 
     $csvConvert=newDOMDocument();
@@ -33,11 +33,11 @@ session_start();
     $csvConvertProcessor = new XSLTProcessor();
     $csvConvertProcessor->importStyleSheet($csvConvert);
     
-    echo $csvConvertProcessor->transformToXML($ticksCSV);*/
+    echo $csvConvertProcessor->transformToXML($ticksCSV);
 
-    //$ticksCSVFile = fopen("ticks.csv","w");
-    //fwrite($ticksCSVFile, $csvConvertProcessor);
-    //fclose($ticksCSVFile);
+    $ticksCSVFile = fopen("ticks.csv","w");
+    fwrite($ticksCSVFile, $csvConvertProcessor);
+    fclose($ticksCSVFile);
 
 /*
     //pull routes and save as routes.csv
