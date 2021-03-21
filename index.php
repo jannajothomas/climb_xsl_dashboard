@@ -19,11 +19,14 @@ session_start();
     //get user name if desired
 
     //pull ticks and save as ticks.csv
-echo "Test";
+
     $tickURL="https://www.mountainproject.com/user/200907314/janna-thomas/tick-export";
-echo "Test1";
     $ticksCSV = file_get_contents($tickURL);
-    
+
+    $ticksCSVFile = fopen("ticks.csv","w");
+    fwrite($ticksCSVFile, $ticksCSV);
+    fclose($ticksCSVFile);
+
 echo "Test2";
     $domTicksCSV = new DOMDocument();
 echo "Test3";
