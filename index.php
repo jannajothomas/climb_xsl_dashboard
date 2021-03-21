@@ -24,7 +24,7 @@ session_start();
     echo "Test1";
     $ticksCSV = file_get_contents($tickURL);
     
-
+    echo "Test2";
     $domTicksCSV = new DOMDocument();
     $domTicksCSV->load($ticksCSV);
 
