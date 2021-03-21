@@ -26,9 +26,9 @@ session_start();
     
     echo "Test2";
     $domTicksCSV = new DOMDocument();
- echo "Test3";
+    echo "Test3";
     $domTicksCSV->load($ticksCSV);
-    echo "Test4"
+    echo "Test4";
     $csvConvert=newDOMDocument();
  echo "Test5";
     $csvConvert->load('csvconvert.xsl');
