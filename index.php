@@ -28,6 +28,7 @@ session_start();
         
     $routesCSV = file_get_contents($routesURL);
     //echo $routesCSV;
+    putenv('PATH=/usr/local/bin');
     $output = shell_exec("commaIssue $routesCSV 2>&1 ");
     echo $output;
 
