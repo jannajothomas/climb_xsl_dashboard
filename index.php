@@ -19,26 +19,26 @@ session_start();
     //get user name if desired
 
     //pull ticks and save as ticks.csv
-    echo "Test";
+echo "Test";
     $tickURL="https://www.mountainproject.com/user/200907314/janna-thomas/tick-export";
-    echo "Test1";
+echo "Test1";
     $ticksCSV = file_get_contents($tickURL);
     
-    echo "Test2";
+echo "Test2";
     $domTicksCSV = new DOMDocument();
-    echo "Test3";
+echo "Test3";
     $domTicksCSV->load($ticksCSV);
-    echo "Test4";
-    $csvConvert=newDOMDocument();
- echo "Test5";
+echo "Test4";
+    $csvConvert=new DOMDocument();
+echo "Test5";
     $csvConvert->load('csvconvert.xsl');
-    echo "test6";
+echo "test6";
     $csvConvertProcessor = new XSLTProcessor();
- echo "Test7";
+echo "Test7";
     $csvConvertProcessor->importStyleSheet($csvConvert);
-     echo "Test8";
+echo "Test8";
     echo $csvConvertProcessor->transformToXML($ticksCSV);
-    echo "test9";
+echo "test9";
     //$ticksCSVFile = fopen("ticks.csv","w");
     //fwrite($ticksCSVFile, $csvConvertProcessor);
     //fclose($ticksCSVFile);
