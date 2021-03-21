@@ -33,28 +33,38 @@ session_start();
     file_put_contents ('rawRoutes.csv', $routesCSV);
 
 
-    $output = shell_exec('./commaIssue rawRoutes.csv');
+    $Routes = shell_exec('./commaIssue rawRoutes.csv');
     file_put_contents ('noCommaRoutes.csv', $output);
+    
+    $Ticks = shell_exec('./commaIssue rawTicks.csv');
+    file_put_contents ('noCommaTicks.csv', $output);
+
   //  echo $output;
 
-echo "Test2";
     $domTicksCSV = new DOMDocument();
-echo "Test3";
-    $domTicksCSV->load($ticksCSV);
-echo "Test4";
+    $domTicksCSV->load($Routes);
+
     $csvConvert=new DOMDocument();
-echo "Test5";
     $csvConvert->load('csvconvert.xsl');
-echo "test6";
+
     $csvConvertProcessor = new XSLTProcessor();
-echo "Test7";
     $csvConvertProcessor->importStyleSheet($csvConvert);
-echo "Test8";
+
     echo $csvConvertProcessor->transformToXML($ticksCSV);
-echo "test9";
     //$ticksCSVFile = fopen("ticks.csv","w");
     //fwrite($ticksCSVFile, $csvConvertProcessor);
     //fclose($ticksCSVFile);
+
+
+//    $domTicksCSV = new DOMDocument();
+//    $domTicksCSV->load($ticksCSV);
+//    $csvConvert=new DOMDocument();
+//    $csvConvert->load('csvconvert.xsl');
+//    $csvConvertProcessor = new XSLTProcessor();
+//    $csvConvertProcessor->importStyleSheet($csvConvert);
+//    echo $csvConvertProcessor->transformToXML($ticksCSV);
+
+
 
 /*
     //pull routes and save as routes.csv
