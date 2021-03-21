@@ -1,6 +1,6 @@
 
 <?php
-echo `whoami`;
+//echo `whoami`;
 //start a new session if none exists.
 session_start(); 
 
@@ -19,27 +19,20 @@ session_start();
     //get user name if desired
 
     //pull ticks and save as ticks.csv
-    $testOutput=shell_exec('./test');
+    //$testOutput=shell_exec('./test');
 
-    echo $testOutput;
+    //echo $testOutput;
     $tickURL="https://www.mountainproject.com/user/200907314/janna-thomas/tick-export";
     $ticksCSV = file_get_contents($tickURL);
+    file_put_contents ('/rawTicks.csv', $ticksCSV);
     //echo $ticksCSV;
     
     $routesURL="https://www.mountainproject.com/route-finder-export?type=rock&diffMinrock=1000&diffMinboulder=20000&diffMinaid=70000&diffMinice=30000&diffMinmixed=50000&diffMaxrock=12400&diffMaxboulder=20050&diffMaxaid=75260&diffMaxice=38500&diffMaxmixed=60000&is_sport_climb=1&stars=0&pitches=0&selectedIds=105867829";
         
     $routesCSV = file_get_contents($routesURL);
+    file_put_contents ('/rawRoutes.csv', $routesCSV);
 
 
-    $dir = 'myDir';
-
-    // create new directory with 744 permissions if it does not exist yet
-    // owner will be the user/group the PHP script is run under
-    if ( !file_exists($dir) ) {
-     mkdir ($dir, 0744);
-    }
-
-    file_put_contents ($dir.'/test.txt', 'Hello File');
 
 
     //echo $routesCSV;
