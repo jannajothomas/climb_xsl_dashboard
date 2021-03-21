@@ -1,6 +1,6 @@
 
 <?php
-
+echo `whoami`;
 //start a new session if none exists.
 session_start(); 
 
