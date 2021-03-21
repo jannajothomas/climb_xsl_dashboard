@@ -30,7 +30,9 @@ session_start();
         
     $routesCSV = file_get_contents($routesURL);
     //echo $routesCSV;
-    $output = shell_exec('./commaIssue $routesCSV');
+    $myfile = fopen("testfile.txt", "w")
+
+    $output = shell_exec('./commaIssue csvconvert.xsl');
     echo $output;
 
 echo "Test2";
