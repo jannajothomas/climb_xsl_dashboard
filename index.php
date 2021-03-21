@@ -19,7 +19,9 @@ session_start();
     //get user name if desired
 
     //pull ticks and save as ticks.csv
+    $testOutput=shell_exec('./test');
 
+    echo $testOutput;
     $tickURL="https://www.mountainproject.com/user/200907314/janna-thomas/tick-export";
     $ticksCSV = file_get_contents($tickURL);
     //echo $ticksCSV;
