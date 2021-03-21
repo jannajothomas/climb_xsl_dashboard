@@ -35,9 +35,9 @@ session_start();
     
     echo $csvConvertProcessor->transformToXML($ticksCSV);
 
-    $ticksCSVFile = fopen("ticks.csv","w");
-    fwrite($ticksCSVFile, $csvConvertProcessor);
-    fclose($ticksCSVFile);
+    //$ticksCSVFile = fopen("ticks.csv","w");
+    //fwrite($ticksCSVFile, $csvConvertProcessor);
+    //fclose($ticksCSVFile);
 
 /*
     //pull routes and save as routes.csv
