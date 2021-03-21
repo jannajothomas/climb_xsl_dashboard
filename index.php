@@ -26,16 +26,19 @@ session_start();
     
     echo "Test2";
     $domTicksCSV = new DOMDocument();
+ echo "Test3";
     $domTicksCSV->load($ticksCSV);
-
+    echo "Test4"
     $csvConvert=newDOMDocument();
+ echo "Test5";
     $csvConvert->load('csvconvert.xsl');
-    echo "test2";
+    echo "test6";
     $csvConvertProcessor = new XSLTProcessor();
+ echo "Test7";
     $csvConvertProcessor->importStyleSheet($csvConvert);
-    
+     echo "Test8";
     echo $csvConvertProcessor->transformToXML($ticksCSV);
-    echo "test3";
+    echo "test9";
     //$ticksCSVFile = fopen("ticks.csv","w");
     //fwrite($ticksCSVFile, $csvConvertProcessor);
     //fclose($ticksCSVFile);
