@@ -33,12 +33,8 @@ session_start();
     file_put_contents ('rawRoutes.csv', $routesCSV);
 
 
-
-
-    //echo $routesCSV;
-    //$myfile = fopen("testfile.txt", "w")
-
-//    $output = shell_exec('./commaIssue csvconvert.xsl');
+    $output = shell_exec('./commaIssue rawRoutes.csv');
+    file_put_contents ('noCommaRoutes.csv', $output);
   //  echo $output;
 
 echo "Test2";
