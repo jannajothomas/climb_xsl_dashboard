@@ -45,6 +45,7 @@
                         <th scope="col">#</th>
                         <th scope="col">Name</th>
                         <th scope="col">Location</th>
+                        <th scope="col">Difficulty</th>
                         <th scope="col">Rating</th>
                         <th scope="col">Completed</th>
                         <th scope="col">Date Completed</th>
@@ -65,28 +66,38 @@
                                     </xsl:copy>
                                 
                                 </th>
-                                <td id="name"><xsl:value-of select="Name" /></td>
-                                <td><xsl:value-of select="Location" /></td>
-                                <td><xsl:value-of select="AvgStars" /></td>
+                                
+                                <!--Create variable so quotes can be removed-->
+                                <xsl:variable name='routeString'>
+                                    <xsl:value-of select="Route" />
+                                </xsl:variable>
+                                <!--Create variable so location can be formatted-->
+                                 <xsl:variable name='fullRouteLocation'>
+                                    <xsl:value-of select="Location" />
+                                </xsl:variable>
+                                <!--Get crag name by only selecting text before &gt-->
+                                <xsl:variable name='justCragName'>
+                                    <xsl:value-of select="substring-before($fullRouteLocation,'&gt;')"/>
+                                </xsl:variable>
+                                
+                       
+                            
+                                <!--Remove quotes from route names-->
+                                <td id="name">
+                                    <xsl:value-of select="replace($routeString, '&quot;','')" />
+                                </td>
+                                <!--Remove quotes from crag names-->
+                                <td><xsl:value-of select="replace($justCragName, '&quot;','')" /></td>
+                                <td><xsl:value-of select="Rating" /></td>
+                                <td><xsl:value-of select="Avg_Stars" /></td>
                                 <td> 
-                                    <div class="form-check">
-                                        <input class="form-check-input position-static checkbox" 
-                                               type="checkbox" 
-                                               id="blankCheckbox" 
-                                               value="{$thisName}" 
-                                                aria-label="..." onchange="$('#form').post();" name="checkbox"/>
-                                    </div>
+                                    
                                 </td>
                                 <td>
-                                    <input id="datepicker" width="276" />
-                                        <script>
-                                            $('#datepicker').datepicker({
-                                            uiLibrary: 'bootstrap4'
-                                            });
-                                        </script>
+                                    
                                 </td>
                                 <td>
-                                    <input type="submit" id="submit" name="submit" class="btn btn-secondary btn-lg" value="Save" />
+                               
                                     
                                 </td>
                                 

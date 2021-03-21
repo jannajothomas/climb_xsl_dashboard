@@ -61,10 +61,11 @@
                                 <td><xsl:value-of select="AvgStars" /></td>
                                 <td> 
                                     <div class="form-check">
-                                        <input class="form-check-input position-static checkbox" type="checkbox" id="blankCheckbox" value="option1" aria-label="..." onchange="$('#form').post();" name="checkbox"/>
+                                        <input class="form-check-input position-static checkbox" type="checkbox" id="blankCheckbox" value="option1" aria-label="..." onchange="$('#form').post();" name="checkbox" checked="true"/>
                                     </div>
                                 </td>
                                 <td>
+                                    <xsl:if test="blackCheckbox"
                                     <!--<input id="datepicker" width="276" />
                                         <script>
                                             $('#datepicker').datepicker({
@@ -73,7 +74,7 @@
                                         </script>-->
                                 </td>
                                 <td>
-                                    <!--<button type="button" class="btn btn-secondary btn-lg" disabled="yes">Update</button>-->
+                                    <button type="button" class="btn btn-secondary btn-lg" disabled="yes">Update</button>
                                     
                                 </td>
                                 

@@ -17,6 +17,7 @@
      exclude-result-prefixes="xs">
     
     <xsl:output method="xml" encoding="UTF-8" indent="yes" />
+    <xsl:strip-space elements="*"/>
     <xsl:param name="csvFile" as="xs:string" />
     <xsl:param name="root" as="xs:string" />
     <xsl:param name="record" as="xs:string" />
@@ -25,23 +26,29 @@
     
     <xsl:template name="csvConvert">
         <xsl:variable name="rows" select="tokenize($dataText, '\r?\n')" as="xs:string*" />
-        <xsl:variable name="elemNames" select="tokenize($rows[1], ',\s*')" as="xs:string+" />
+        <xsl:variable name="elemNames" select="tokenize($rows[1], ',')" as="xs:string+" />
         
         <xsl:element name="{$root}">
             <xsl:for-each select="$rows[position()>1]">
                 <xsl:element name="{$record}">
-                    <xsl:variable name="dataValues" select="tokenize(., ',\s*')" as="xs:string+" />
+                    <xsl:variable name="dataValues" select="tokenize(., ',')" as="xs:string*" />
                     <xsl:for-each select="$elemNames">
-                        <xsl:variable name="elemName" select="." />
-                        <xsl:element name="{replace($elemName, '\s', '_')}">
-                            <xsl:value-of select="$dataValues[index-of($elemNames, $elemName)]" />
-                        </xsl:element>
+                        <xsl:variable name="thisElementName" select="." />
+                        <xsl:element name="{replace(replace($thisElementName,'\s','_'),'&quot;','')}">
+                            
+                            <xsl:choose>
+                                <xsl:when test="$thisElementName != ''">
+                                        <xsl:value-of select="$dataValues[index-of($elemNames, $thisElementName)]" />
+                                </xsl:when>
+                                <xsl:otherwise>
+                                    <xsl:value-of select="0" />
+                                </xsl:otherwise>
+                            </xsl:choose>
+                            </xsl:element>
                     </xsl:for-each>
                 </xsl:element>
-            
             </xsl:for-each>
         </xsl:element>
-        
     </xsl:template>
-
 </xsl:stylesheet>
+

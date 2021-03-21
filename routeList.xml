@@ -1,666 +1,679 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <routes>
    <route>
-      <Name>Things I Never Learned</Name>
-      <Location>Jimmy Cliff</Location>
-      <Date>things-i-never-learned</Date>
-      <AvgStars>2.2</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
+      <Route>Smokestack</Route>
+      <Location>"New Wave &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/105998986/smokestack</URL>
+      <Avg_Stars>3.4</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9+</Rating>
+      <Pitches>1</Pitches>
+      <Length/>
+      <Area_Latitude>43.80285</Area_Latitude>
+      <Area_Longitude>-71.83444</Area_Longitude>
+   </route>
+   <route>
+      <Route>"Oby-won Ryobi"</Route>
+      <Location>"Darth Vader &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/105906887/oby-won-ryobi</URL>
+      <Avg_Stars>3.1</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9+</Rating>
+      <Pitches>1</Pitches>
+      <Length/>
+      <Area_Latitude>43.80352</Area_Latitude>
+      <Area_Longitude>-71.8404</Area_Longitude>
+   </route>
+   <route>
+      <Route>B-B-Buttress</Route>
+      <Location>"The Northwest Territories &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/106147475/b-b-buttress</URL>
+      <Avg_Stars>3.1</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9+</Rating>
+      <Pitches>1</Pitches>
+      <Length/>
+      <Area_Latitude>43.80478</Area_Latitude>
+      <Area_Longitude>-71.84537</Area_Longitude>
+   </route>
+   <route>
+      <Route>Yoda</Route>
+      <Location>"Darth Vader &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/105906879/yoda</URL>
+      <Avg_Stars>3.0</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
       <Rating>5.9</Rating>
       <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.80417</AreaLatitude>
-      <AreaLongitude>-71.84037</AreaLongitude>
+      <Length/>
+      <Area_Latitude>43.80352</Area_Latitude>
+      <Area_Longitude>-71.8404</Area_Longitude>
    </route>
    <route>
-      <Name>To Love Honor and Belay</Name>
-      <Location>Jimmy Cliff</Location>
-      <Date>to-love-honor-and-belay</Date>
-      <AvgStars>2.0</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
+      <Route>"War and  Peace"</Route>
+      <Location>"Bonsai &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/105878619/war-and-peace</URL>
+      <Avg_Stars>2.7</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9+</Rating>
+      <Pitches>1</Pitches>
+      <Length/>
+      <Area_Latitude>43.80288</Area_Latitude>
+      <Area_Longitude>-71.83926</Area_Longitude>
+   </route>
+   <route>
+      <Route>"Curly for President"</Route>
+      <Location>"The Parking Lot Wall &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/106254868/curly-for-president</URL>
+      <Avg_Stars>2.7</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9-</Rating>
+      <Pitches>1</Pitches>
+      <Length/>
+      <Area_Latitude>43.80274</Area_Latitude>
+      <Area_Longitude>-71.83029</Area_Longitude>
+   </route>
+   <route>
+      <Route>"Cozened Stone"</Route>
+      <Location>"The Very Nice Crag &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/108370872/cozened-stone</URL>
+      <Avg_Stars>3.2</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
       <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.80417</AreaLatitude>
-      <AreaLongitude>-71.84037</AreaLongitude>
-   </route>
-   <route>
-      <Name>War and  Peace</Name>
-      <Location>Bonsai</Location>
-      <Date>war-and-peace</Date>
-      <AvgStars>2.7</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.80288</AreaLatitude>
-      <AreaLongitude>-71.83926</AreaLongitude>
-   </route>
-   <route>
-      <Name>Bolt And Run</Name>
-      <Location>5.8 Crag</Location>
-      <Date>bolt-and-run</Date>
-      <AvgStars>2.3</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.80105</AreaLatitude>
-      <AreaLongitude>-71.83823</AreaLongitude>
-   </route>
-   <route>
-      <Name>Yoda</Name>
-      <Location>Darth Vader</Location>
-      <Date>yoda</Date>
-      <AvgStars>3.0</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.80352</AreaLatitude>
-      <AreaLongitude>-71.8404</AreaLongitude>
-   </route>
-   <route>
-      <Name>Oby-won Ryobi</Name>
-      <Location>Darth Vader</Location>
-      <Date>oby-won-ryobi</Date>
-      <AvgStars>3.1</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.80352</AreaLatitude>
-      <AreaLongitude>-71.8404</AreaLongitude>
-   </route>
-   <route>
-      <Name>Orange Crush (retro-bolted)</Name>
-      <Location>Orange Crush</Location>
-      <Date>orange-crush-retro-bolted</Date>
-      <AvgStars>2.2</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>50</Length>
-      <AreaLatitude>43.80293</AreaLatitude>
-      <AreaLongitude>-71.83513</AreaLongitude>
-   </route>
-   <route>
-      <Name>Night Crawler</Name>
-      <Location>New Wave</Location>
-      <Date>night-crawler</Date>
-      <AvgStars>2.1</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>40</Length>
-      <AreaLatitude>43.80285</AreaLatitude>
-      <AreaLongitude>-71.83444</AreaLongitude>
-   </route>
-   <route>
-      <Name>Smokestack</Name>
-      <Location>New Wave</Location>
-      <Date>smokestack</Date>
-      <AvgStars>3.4</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.80285</AreaLatitude>
-      <AreaLongitude>-71.83444</AreaLongitude>
-   </route>
-   <route>
-      <Name>Curly for President</Name>
-      <Location>The Parking Lot Wall</Location>
-      <Date>curly-for-president</Date>
-      <AvgStars>2.7</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>-5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.80274</AreaLatitude>
-      <AreaLongitude>-71.83029</AreaLongitude>
-   </route>
-   <route>
-      <Name>Quinn/Callaghan</Name>
-      <Location>The Parking Lot Wall</Location>
-      <Date>quinncallaghan</Date>
-      <AvgStars>2.5</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>-5.9</Rating>
       <Pitches>1</Pitches>
       <Length>80</Length>
-      <AreaLatitude>43.80274</AreaLatitude>
-      <AreaLongitude>-71.83029</AreaLongitude>
+      <Area_Latitude>43.80545</Area_Latitude>
+      <Area_Longitude>-71.84486</Area_Longitude>
    </route>
    <route>
-      <Name>Easily Aroused</Name>
-      <Location>The Parking Lot Wall</Location>
-      <Date>easily-aroused</Date>
-      <AvgStars>1.7</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
+      <Route>"Hippos on Parade"</Route>
+      <Location>"Center Section &gt; The Meadows &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/105961400/hippos-on-parade</URL>
+      <Avg_Stars>2.7</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
       <Rating>5.9</Rating>
       <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.80274</AreaLatitude>
-      <AreaLongitude>-71.83029</AreaLongitude>
+      <Length/>
+      <Area_Latitude>43.80231</Area_Latitude>
+      <Area_Longitude>-71.83173</Area_Longitude>
    </route>
    <route>
-      <Name>Egg McMeadows</Name>
-      <Location>The Parking Lot Wall</Location>
-      <Date>egg-mcmeadows</Date>
-      <AvgStars>2.3</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.80274</AreaLatitude>
-      <AreaLongitude>-71.83029</AreaLongitude>
-   </route>
-   <route>
-      <Name>Tumbling Dice</Name>
-      <Location>The Prudential</Location>
-      <Date>tumbling-dice</Date>
-      <AvgStars>2.2</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>-5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>75</Length>
-      <AreaLatitude>43.80513</AreaLatitude>
-      <AreaLongitude>-71.84452</AreaLongitude>
-   </route>
-   <route>
-      <Name>Thou Shalt Not Covet</Name>
-      <Location>No Money Down (Left)</Location>
-      <Date>thou-shalt-not-covet</Date>
-      <AvgStars>2.0</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.8023</AreaLatitude>
-      <AreaLongitude>-71.83202</AreaLongitude>
-   </route>
-   <route>
-      <Name>Hippos on Parade</Name>
-      <Location>Center Section</Location>
-      <Date>hippos-on-parade</Date>
-      <AvgStars>2.7</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.80231</AreaLatitude>
-      <AreaLongitude>-71.83173</AreaLongitude>
-   </route>
-   <route>
-      <Name>Lies and Propaganda</Name>
-      <Location>Center Section</Location>
-      <Date>lies-and-propaganda</Date>
-      <AvgStars>2.6</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
+      <Route>"Lies and Propaganda"</Route>
+      <Location>"Center Section &gt; The Meadows &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/105923839/lies-and-propaganda</URL>
+      <Avg_Stars>2.6</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
       <Rating>5.9</Rating>
       <Pitches>1</Pitches>
       <Length>55</Length>
-      <AreaLatitude>43.80231</AreaLatitude>
-      <AreaLongitude>-71.83173</AreaLongitude>
+      <Area_Latitude>43.80231</Area_Latitude>
+      <Area_Longitude>-71.83173</Area_Longitude>
    </route>
    <route>
-      <Name>Bridge to Nowhere</Name>
-      <Location>Yellowknife Buttress</Location>
-      <Date>bridge-to-nowhere</Date>
-      <AvgStars>3.0</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.80532</AreaLatitude>
-      <AreaLongitude>-71.84351</AreaLongitude>
-   </route>
-   <route>
-      <Name>Couch Potato</Name>
-      <Location>Below the New Wave</Location>
-      <Date>couch-potato</Date>
-      <AvgStars>2.0</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>30</Length>
-      <AreaLatitude>43.8021</AreaLatitude>
-      <AreaLongitude>-71.8367</AreaLongitude>
-   </route>
-   <route>
-      <Name>Pussyfoot</Name>
-      <Location>The Hinterlands</Location>
-      <Date>pussyfoot</Date>
-      <AvgStars>2.3</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>75</Length>
-      <AreaLatitude>43.80505</AreaLatitude>
-      <AreaLongitude>-71.84309</AreaLongitude>
-   </route>
-   <route>
-      <Name>Black Slabbath</Name>
-      <Location>The Hinterlands</Location>
-      <Date>black-slabbath</Date>
-      <AvgStars>2.5</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.80505</AreaLatitude>
-      <AreaLongitude>-71.84309</AreaLongitude>
-   </route>
-   <route>
-      <Name>Men In White Suits</Name>
-      <Location>Armed and Dangerous (Main Cliff Left)</Location>
-      <Date>men-in-white-suits</Date>
-      <AvgStars>2.3</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.80202</AreaLatitude>
-      <AreaLongitude>-71.83678</AreaLongitude>
-   </route>
-   <route>
-      <Name>Green Mile</Name>
-      <Location>Armed and Dangerous (Main Cliff Left)</Location>
-      <Date>green-mile</Date>
-      <AvgStars>2.4</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.80202</AreaLatitude>
-      <AreaLongitude>-71.83678</AreaLongitude>
-   </route>
-   <route>
-      <Name>Panama Hat (aka Mister Meaner)</Name>
-      <Location>Armed and Dangerous (Main Cliff Left)</Location>
-      <Date>panama-hat-aka-mister-meaner</Date>
-      <AvgStars>2.4</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>60</Length>
-      <AreaLatitude>43.80202</AreaLatitude>
-      <AreaLongitude>-71.83678</AreaLongitude>
-   </route>
-   <route>
-      <Name>Puppy Love</Name>
-      <Location>Kennel Wall</Location>
-      <Date>puppy-love</Date>
-      <AvgStars>2.0</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.80329</AreaLatitude>
-      <AreaLongitude>-71.83444</AreaLongitude>
-   </route>
-   <route>
-      <Name>I'm Talking to The Dog</Name>
-      <Location>Kennel Wall</Location>
-      <Date>im-talking-to-the-dog</Date>
-      <AvgStars>1.6</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.80329</AreaLatitude>
-      <AreaLongitude>-71.83444</AreaLongitude>
-   </route>
-   <route>
-      <Name>Yer Anus</Name>
-      <Location>Starship Enterprise</Location>
-      <Date>yer-anus</Date>
-      <AvgStars>2.3</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.8021</AreaLatitude>
-      <AreaLongitude>-71.8367</AreaLongitude>
-   </route>
-   <route>
-      <Name>Space</Name>
-      <Location>Starship Enterprise</Location>
-      <Date>space</Date>
-      <AvgStars>2.6</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.8021</AreaLatitude>
-      <AreaLongitude>-71.8367</AreaLongitude>
-   </route>
-   <route>
-      <Name>Sea Breeze</Name>
-      <Location>The Crow's Nest</Location>
-      <Date>sea-breeze</Date>
-      <AvgStars>1.7</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.80539</AreaLatitude>
-      <AreaLongitude>-71.84295</AreaLongitude>
-   </route>
-   <route>
-      <Name>The Trad's Nest</Name>
-      <Location>The Crow's Nest</Location>
-      <Date>the-trads-nest</Date>
-      <AvgStars>1.9</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>40</Length>
-      <AreaLatitude>43.80539</AreaLatitude>
-      <AreaLongitude>-71.84295</AreaLongitude>
-   </route>
-   <route>
-      <Name>Clambake</Name>
-      <Location>The Crow's Nest</Location>
-      <Date>clambake</Date>
-      <AvgStars>1.9</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>40</Length>
-      <AreaLatitude>43.80539</AreaLatitude>
-      <AreaLongitude>-71.84295</AreaLongitude>
-   </route>
-   <route>
-      <Name>Ill Gotten Booty</Name>
-      <Location>The Crow's Nest</Location>
-      <Date>ill-gotten-booty</Date>
-      <AvgStars>1.9</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.80539</AreaLatitude>
-      <AreaLongitude>-71.84295</AreaLongitude>
-   </route>
-   <route>
-      <Name>Charity Case</Name>
-      <Location>Main Cliff Right</Location>
-      <Date>charity-case</Date>
-      <AvgStars>2.1</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.8027</AreaLatitude>
-      <AreaLongitude>-71.83554</AreaLongitude>
-   </route>
-   <route>
-      <Name>Personal Boundaries</Name>
-      <Location>Boundary Rock</Location>
-      <Date>personal-boundaries</Date>
-      <AvgStars>1.7</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.8021</AreaLatitude>
-      <AreaLongitude>-71.8367</AreaLongitude>
-   </route>
-   <route>
-      <Name>B-B-Buttress</Name>
-      <Location>The Northwest Territories</Location>
-      <Date>b-b-buttress</Date>
-      <AvgStars>3.1</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.80478</AreaLatitude>
-      <AreaLongitude>-71.84537</AreaLongitude>
-   </route>
-   <route>
-      <Name>California Chrome</Name>
-      <Location>The Northwest Territories</Location>
-      <Date>california-chrome</Date>
-      <AvgStars>2.6</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
+      <Route>"California Chrome"</Route>
+      <Location>"The Northwest Territories &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/108999586/california-chrome</URL>
+      <Avg_Stars>2.6</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9+</Rating>
       <Pitches>1</Pitches>
       <Length>100</Length>
-      <AreaLatitude>43.80478</AreaLatitude>
-      <AreaLongitude>-71.84537</AreaLongitude>
+      <Area_Latitude>43.80478</Area_Latitude>
+      <Area_Longitude>-71.84537</Area_Longitude>
    </route>
    <route>
-      <Name>Sodbuster</Name>
-      <Location>Buffalo Pit</Location>
-      <Date>sodbuster</Date>
-      <AvgStars>2.2</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>-5.9</Rating>
+      <Route>Space</Route>
+      <Location>"Starship Enterprise &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/105959820/space</URL>
+      <Avg_Stars>2.6</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9+</Rating>
+      <Pitches>1</Pitches>
+      <Length/>
+      <Area_Latitude>43.8021</Area_Latitude>
+      <Area_Longitude>-71.8367</Area_Longitude>
+   </route>
+   <route>
+      <Route>"Trigger Happy"</Route>
+      <Location>"Triple Corners Right &gt; Triple Corners &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/106030531/trigger-happy</URL>
+      <Avg_Stars>2.6</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length/>
+      <Area_Latitude>43.80403</Area_Latitude>
+      <Area_Longitude>-71.84178</Area_Longitude>
+   </route>
+   <route>
+      <Route>Quinn/Callaghan</Route>
+      <Location>"The Parking Lot Wall &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/106263795/quinncallaghan</URL>
+      <Avg_Stars>2.5</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9-</Rating>
       <Pitches>1</Pitches>
       <Length>80</Length>
-      <AreaLatitude>43.80386</AreaLatitude>
-      <AreaLongitude>-71.84992</AreaLongitude>
+      <Area_Latitude>43.80274</Area_Latitude>
+      <Area_Longitude>-71.83029</Area_Longitude>
    </route>
    <route>
-      <Name>Stone Worms</Name>
-      <Location>Buffalo Pit</Location>
-      <Date>stone-worms</Date>
-      <AvgStars>2.5</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>-5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>90</Length>
-      <AreaLatitude>43.80386</AreaLatitude>
-      <AreaLongitude>-71.84992</AreaLongitude>
-   </route>
-   <route>
-      <Name>Scratchy</Name>
-      <Location>Buffalo Pit</Location>
-      <Date>scratchy</Date>
-      <AvgStars>1.9</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
+      <Route>"Green Mile"</Route>
+      <Location>"Armed and Dangerous (Main Cliff Left) &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/106009586/green-mile</URL>
+      <Avg_Stars>2.4</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
       <Rating>5.9</Rating>
       <Pitches>1</Pitches>
-      <Length>35</Length>
-      <AreaLatitude>43.80386</AreaLatitude>
-      <AreaLongitude>-71.84992</AreaLongitude>
+      <Length/>
+      <Area_Latitude>43.80202</Area_Latitude>
+      <Area_Longitude>-71.83678</Area_Longitude>
    </route>
    <route>
-      <Name>Fresh Fish</Name>
-      <Location>Buffalo Pit</Location>
-      <Date>fresh-fish</Date>
-      <AvgStars>2.6</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
+      <Route>"Men In White Suits"</Route>
+      <Location>"Armed and Dangerous (Main Cliff Left) &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/105959381/men-in-white-suits</URL>
+      <Avg_Stars>2.3</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
       <Rating>5.9</Rating>
       <Pitches>1</Pitches>
-      <Length>80</Length>
-      <AreaLatitude>43.80386</AreaLatitude>
-      <AreaLongitude>-71.84992</AreaLongitude>
+      <Length/>
+      <Area_Latitude>43.80202</Area_Latitude>
+      <Area_Longitude>-71.83678</Area_Longitude>
    </route>
    <route>
-      <Name>Drip of Fools</Name>
-      <Location>The G-Spot</Location>
-      <Date>drip-of-fools</Date>
-      <AvgStars>1.8</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
+      <Route>"Left El Diego"</Route>
+      <Location>"Triple Corners Right &gt; Triple Corners &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/105961439/left-el-diego</URL>
+      <Avg_Stars>2.4</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
       <Rating>5.9</Rating>
       <Pitches>1</Pitches>
-      <Length>30</Length>
-      <AreaLatitude>43.80263</AreaLatitude>
-      <AreaLongitude>-71.83398</AreaLongitude>
+      <Length/>
+      <Area_Latitude>43.80403</Area_Latitude>
+      <Area_Longitude>-71.84178</Area_Longitude>
    </route>
    <route>
-      <Name>Trundle Love</Name>
-      <Location>Triple Corners Center</Location>
-      <Date>trundle-love</Date>
-      <AvgStars>2.4</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
+      <Route>"Egg McMeadows"</Route>
+      <Location>"The Parking Lot Wall &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/105962933/egg-mcmeadows</URL>
+      <Avg_Stars>2.3</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9+</Rating>
+      <Pitches>1</Pitches>
+      <Length/>
+      <Area_Latitude>43.80274</Area_Latitude>
+      <Area_Longitude>-71.83029</Area_Longitude>
+   </route>
+   <route>
+      <Route>"Bolt And Run"</Route>
+      <Location>"5.8 Crag &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/105922323/bolt-and-run</URL>
+      <Avg_Stars>2.3</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
       <Rating>5.9</Rating>
       <Pitches>1</Pitches>
-      <Length>30</Length>
-      <AreaLatitude>43.80401</AreaLatitude>
-      <AreaLongitude>-71.84229</AreaLongitude>
+      <Length/>
+      <Area_Latitude>43.80105</Area_Latitude>
+      <Area_Longitude>-71.83823</Area_Longitude>
    </route>
    <route>
-      <Name>Trigger Happy</Name>
-      <Location>Triple Corners Right</Location>
-      <Date>trigger-happy</Date>
-      <AvgStars>2.6</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
+      <Route>"Things I Never Learned"</Route>
+      <Location>"Jimmy Cliff &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/105925175/things-i-never-learned</URL>
+      <Avg_Stars>2.2</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
       <Rating>5.9</Rating>
       <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.80403</AreaLatitude>
-      <AreaLongitude>-71.84178</AreaLongitude>
+      <Length/>
+      <Area_Latitude>43.80417</Area_Latitude>
+      <Area_Longitude>-71.84037</Area_Longitude>
    </route>
    <route>
-      <Name>Left El Diego</Name>
-      <Location>Triple Corners Right</Location>
-      <Date>left-el-diego</Date>
-      <AvgStars>2.4</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.80403</AreaLatitude>
-      <AreaLongitude>-71.84178</AreaLongitude>
-   </route>
-   <route>
-      <Name>Jigsaw Puzzle</Name>
-      <Location>Triple Corners Right</Location>
-      <Date>jigsaw-puzzle</Date>
-      <AvgStars>1.0</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9+ PG13</Rating>
-      <Pitches>1</Pitches>
-      <Length>35</Length>
-      <AreaLatitude>43.80403</AreaLatitude>
-      <AreaLongitude>-71.84178</AreaLongitude>
-   </route>
-   <route>
-      <Name>Spanning the Gap</Name>
-      <Location>Gem Hunter</Location>
-      <Date>spanning-the-gap</Date>
-      <AvgStars>2.3</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.8415</AreaLatitude>
-      <AreaLongitude>-71.8233</AreaLongitude>
-   </route>
-   <route>
-      <Name>Tourmaline Dreams</Name>
-      <Location>Gem Hunter</Location>
-      <Date>tourmaline-dreams</Date>
-      <AvgStars>1.6</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>0</Length>
-      <AreaLatitude>43.8415</AreaLatitude>
-      <AreaLongitude>-71.8233</AreaLongitude>
-   </route>
-   <route>
-      <Name>Gem Hunter</Name>
-      <Location>Gem Hunter</Location>
-      <Date>gem-hunter</Date>
-      <AvgStars>1.3</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>45</Length>
-      <AreaLatitude>43.8415</AreaLatitude>
-      <AreaLongitude>-71.8233</AreaLongitude>
-   </route>
-   <route>
-      <Name>Cozened Stone</Name>
-      <Location>The Very Nice Crag</Location>
-      <Date>cozened-stone</Date>
-      <AvgStars>3.2</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>80</Length>
-      <AreaLatitude>43.80545</AreaLatitude>
-      <AreaLongitude>-71.84486</AreaLongitude>
-   </route>
-   <route>
-      <Name>Rippopotamus</Name>
-      <Location>The Very Nice Crag</Location>
-      <Date>rippopotamus</Date>
-      <AvgStars>1.8</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
-      <Rating>5.9</Rating>
-      <Pitches>1</Pitches>
-      <Length>25</Length>
-      <AreaLatitude>43.80545</AreaLatitude>
-      <AreaLongitude>-71.84486</AreaLongitude>
-   </route>
-   <route>
-      <Name>Flaming Arrow</Name>
-      <Location>Slab Wall</Location>
-      <Date>flaming-arrow</Date>
-      <AvgStars>2.4</AvgStars>
-      <YourStars>-1</YourStars>
-      <NameType>Sport</NameType>
+      <Route>"Orange Crush (retro-bolted)"</Route>
+      <Location>"Orange Crush &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/106775797/orange-crush-retro-bolted</URL>
+      <Avg_Stars>2.2</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
       <Rating>5.9</Rating>
       <Pitches>1</Pitches>
       <Length>50</Length>
-      <AreaLatitude>43.80299</AreaLatitude>
-      <AreaLongitude>-71.8488</AreaLongitude>
+      <Area_Latitude>43.80293</Area_Latitude>
+      <Area_Longitude>-71.83513</Area_Longitude>
+   </route>
+   <route>
+      <Route>"Yer Anus"</Route>
+      <Location>"Starship Enterprise &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/105959760/yer-anus</URL>
+      <Avg_Stars>2.3</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length/>
+      <Area_Latitude>43.8021</Area_Latitude>
+      <Area_Longitude>-71.8367</Area_Longitude>
+   </route>
+   <route>
+      <Route>"Charity Case"</Route>
+      <Location>"Main Cliff Right &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/106018125/charity-case</URL>
+      <Avg_Stars>2.1</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length/>
+      <Area_Latitude>43.8027</Area_Latitude>
+      <Area_Longitude>-71.83554</Area_Longitude>
+   </route>
+   <route>
+      <Route>"Night Crawler"</Route>
+      <Location>"New Wave &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/106793287/night-crawler</URL>
+      <Avg_Stars>2.1</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>40</Length>
+      <Area_Latitude>43.80285</Area_Latitude>
+      <Area_Longitude>-71.83444</Area_Longitude>
+   </route>
+   <route>
+      <Route>"Thou Shalt Not Covet"</Route>
+      <Location>"No Money Down (Left) &gt; The Meadows &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/105962344/thou-shalt-not-covet</URL>
+      <Avg_Stars>2.0</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length/>
+      <Area_Latitude>43.8023</Area_Latitude>
+      <Area_Longitude>-71.83202</Area_Longitude>
+   </route>
+   <route>
+      <Route>"Couch Potato"</Route>
+      <Location>"Below the New Wave &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/105921772/couch-potato</URL>
+      <Avg_Stars>2.0</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>30</Length>
+      <Area_Latitude>43.8021</Area_Latitude>
+      <Area_Longitude>-71.8367</Area_Longitude>
+   </route>
+   <route>
+      <Route>"Puppy Love"</Route>
+      <Location>"Kennel Wall &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/106137815/puppy-love</URL>
+      <Avg_Stars>2.0</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length/>
+      <Area_Latitude>43.80329</Area_Latitude>
+      <Area_Longitude>-71.83444</Area_Longitude>
+   </route>
+   <route>
+      <Route>Sodbuster</Route>
+      <Location>"Buffalo Pit &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/113501901/sodbuster</URL>
+      <Avg_Stars>2.2</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9-</Rating>
+      <Pitches>1</Pitches>
+      <Length>80</Length>
+      <Area_Latitude>43.80386</Area_Latitude>
+      <Area_Longitude>-71.84992</Area_Longitude>
+   </route>
+   <route>
+      <Route>"Flaming Arrow"</Route>
+      <Location>"Slab Wall &gt; The Buffalo Corral &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/113509678/flaming-arrow</URL>
+      <Avg_Stars>2.4</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9+</Rating>
+      <Pitches>1</Pitches>
+      <Length>50</Length>
+      <Area_Latitude>43.80299</Area_Latitude>
+      <Area_Longitude>-71.8488</Area_Longitude>
+   </route>
+   <route>
+      <Route>"Panama Hat (aka Mister Meaner)"</Route>
+      <Location>"Armed and Dangerous (Main Cliff Left) &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/106744657/panama-hat-aka-mister-meaner</URL>
+      <Avg_Stars>2.4</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9+</Rating>
+      <Pitches>1</Pitches>
+      <Length>60</Length>
+      <Area_Latitude>43.80202</Area_Latitude>
+      <Area_Longitude>-71.83678</Area_Longitude>
+   </route>
+   <route>
+      <Route>"Easily Aroused"</Route>
+      <Location>"The Parking Lot Wall &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/105971474/easily-aroused</URL>
+      <Avg_Stars>1.7</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length/>
+      <Area_Latitude>43.80274</Area_Latitude>
+      <Area_Longitude>-71.83029</Area_Longitude>
+   </route>
+   <route>
+      <Route>"Stone Worms"</Route>
+      <Location>"Buffalo Pit &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/114447316/stone-worms</URL>
+      <Avg_Stars>2.5</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9-</Rating>
+      <Pitches>1</Pitches>
+      <Length>90</Length>
+      <Area_Latitude>43.80386</Area_Latitude>
+      <Area_Longitude>-71.84992</Area_Longitude>
+   </route>
+   <route>
+      <Route>"To Love</Route>
+      <Location> Honor and Belay"</Location>
+      <URL>"Jimmy Cliff &gt; *Rumney &gt; New Hampshire"</URL>
+      <Avg_Stars>https://www.mountainproject.com/route/106276559/to-love-honor-and-belay</Avg_Stars>
+      <Your_Stars>2.0</Your_Stars>
+      <Route_Type>-1</Route_Type>
+      <Rating>Sport</Rating>
+      <Pitches>5.9</Pitches>
+      <Length>1</Length>
+      <Area_Latitude/>
+      <Area_Longitude>43.80417</Area_Longitude>
+   </route>
+   <route>
+      <Route>Clambake</Route>
+      <Location>"The Crow's Nest &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/106442110/clambake</URL>
+      <Avg_Stars>1.9</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9+</Rating>
+      <Pitches>1</Pitches>
+      <Length>40</Length>
+      <Area_Latitude>43.80539</Area_Latitude>
+      <Area_Longitude>-71.84295</Area_Longitude>
+   </route>
+   <route>
+      <Route>"Ill Gotten Booty"</Route>
+      <Location>"The Crow's Nest &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/105965186/ill-gotten-booty</URL>
+      <Avg_Stars>1.9</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9+</Rating>
+      <Pitches>1</Pitches>
+      <Length/>
+      <Area_Latitude>43.80539</Area_Latitude>
+      <Area_Longitude>-71.84295</Area_Longitude>
+   </route>
+   <route>
+      <Route>"I'm Talking to The Dog"</Route>
+      <Location>"Kennel Wall &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/106718896/im-talking-to-the-dog</URL>
+      <Avg_Stars>1.6</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9+</Rating>
+      <Pitches>1</Pitches>
+      <Length/>
+      <Area_Latitude>43.80329</Area_Latitude>
+      <Area_Longitude>-71.83444</Area_Longitude>
+   </route>
+   <route>
+      <Route>"Black Slabbath"</Route>
+      <Location>"The Hinterlands &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/106013503/black-slabbath</URL>
+      <Avg_Stars>2.5</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9+</Rating>
+      <Pitches>1</Pitches>
+      <Length/>
+      <Area_Latitude>43.80505</Area_Latitude>
+      <Area_Longitude>-71.84309</Area_Longitude>
+   </route>
+   <route>
+      <Route>"Fresh Fish"</Route>
+      <Location>"Buffalo Pit &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/117287185/fresh-fish</URL>
+      <Avg_Stars>2.6</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9+</Rating>
+      <Pitches>1</Pitches>
+      <Length>80</Length>
+      <Area_Latitude>43.80386</Area_Latitude>
+      <Area_Longitude>-71.84992</Area_Longitude>
+   </route>
+   <route>
+      <Route>"Sea Breeze"</Route>
+      <Location>"The Crow's Nest &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/106186163/sea-breeze</URL>
+      <Avg_Stars>1.7</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length/>
+      <Area_Latitude>43.80539</Area_Latitude>
+      <Area_Longitude>-71.84295</Area_Longitude>
+   </route>
+   <route>
+      <Route>"The Trad's Nest"</Route>
+      <Location>"The Crow's Nest &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/106263806/the-trads-nest</URL>
+      <Avg_Stars>1.9</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>40</Length>
+      <Area_Latitude>43.80539</Area_Latitude>
+      <Area_Longitude>-71.84295</Area_Longitude>
+   </route>
+   <route>
+      <Route>Scratchy</Route>
+      <Location>"Buffalo Pit &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/114395090/scratchy</URL>
+      <Avg_Stars>1.9</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>35</Length>
+      <Area_Latitude>43.80386</Area_Latitude>
+      <Area_Longitude>-71.84992</Area_Longitude>
+   </route>
+   <route>
+      <Route>"Bridge to Nowhere"</Route>
+      <Location>"Yellowknife Buttress &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/106825276/bridge-to-nowhere</URL>
+      <Avg_Stars>3.0</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length/>
+      <Area_Latitude>43.80532</Area_Latitude>
+      <Area_Longitude>-71.84351</Area_Longitude>
+   </route>
+   <route>
+      <Route>"Spanning the Gap"</Route>
+      <Location>"Gem Hunter &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/106807604/spanning-the-gap</URL>
+      <Avg_Stars>2.3</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length/>
+      <Area_Latitude>43.8415</Area_Latitude>
+      <Area_Longitude>-71.8233</Area_Longitude>
+   </route>
+   <route>
+      <Route>"Trundle Love"</Route>
+      <Location>"Triple Corners Center &gt; Triple Corners &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/106721971/trundle-love</URL>
+      <Avg_Stars>2.4</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>30</Length>
+      <Area_Latitude>43.80401</Area_Latitude>
+      <Area_Longitude>-71.84229</Area_Longitude>
+   </route>
+   <route>
+      <Route>Pussyfoot</Route>
+      <Location>"The Hinterlands &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/117569459/pussyfoot</URL>
+      <Avg_Stars>2.3</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>75</Length>
+      <Area_Latitude>43.80505</Area_Latitude>
+      <Area_Longitude>-71.84309</Area_Longitude>
+   </route>
+   <route>
+      <Route>"Drip of Fools"</Route>
+      <Location>"The G-Spot &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/106441298/drip-of-fools</URL>
+      <Avg_Stars>1.8</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length>30</Length>
+      <Area_Latitude>43.80263</Area_Latitude>
+      <Area_Longitude>-71.83398</Area_Longitude>
+   </route>
+   <route>
+      <Route>Rippopotamus</Route>
+      <Location>"The Very Nice Crag &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/113099109/rippopotamus</URL>
+      <Avg_Stars>1.8</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9+</Rating>
+      <Pitches>1</Pitches>
+      <Length>25</Length>
+      <Area_Latitude>43.80545</Area_Latitude>
+      <Area_Longitude>-71.84486</Area_Longitude>
+   </route>
+   <route>
+      <Route>"Tumbling Dice"</Route>
+      <Location>"The Prudential &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/117387231/tumbling-dice</URL>
+      <Avg_Stars>2.2</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9-</Rating>
+      <Pitches>1</Pitches>
+      <Length>75</Length>
+      <Area_Latitude>43.80513</Area_Latitude>
+      <Area_Longitude>-71.84452</Area_Longitude>
+   </route>
+   <route>
+      <Route>"Personal Boundaries"</Route>
+      <Location>"Boundary Rock &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/110744830/personal-boundaries</URL>
+      <Avg_Stars>1.7</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9+</Rating>
+      <Pitches>1</Pitches>
+      <Length/>
+      <Area_Latitude>43.8021</Area_Latitude>
+      <Area_Longitude>-71.8367</Area_Longitude>
+   </route>
+   <route>
+      <Route>"Tourmaline Dreams"</Route>
+      <Location>"Gem Hunter &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/106807642/tourmaline-dreams</URL>
+      <Avg_Stars>1.6</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9</Rating>
+      <Pitches>1</Pitches>
+      <Length/>
+      <Area_Latitude>43.8415</Area_Latitude>
+      <Area_Longitude>-71.8233</Area_Longitude>
+   </route>
+   <route>
+      <Route>"Jigsaw Puzzle"</Route>
+      <Location>"Triple Corners Right &gt; Triple Corners &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/107728069/jigsaw-puzzle</URL>
+      <Avg_Stars>1.0</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>"5.9+ PG13"</Rating>
+      <Pitches>1</Pitches>
+      <Length>35</Length>
+      <Area_Latitude>43.80403</Area_Latitude>
+      <Area_Longitude>-71.84178</Area_Longitude>
+   </route>
+   <route>
+      <Route>"Gem Hunter"</Route>
+      <Location>"Gem Hunter &gt; *Rumney &gt; New Hampshire"</Location>
+      <URL>https://www.mountainproject.com/route/106811216/gem-hunter</URL>
+      <Avg_Stars>1.3</Avg_Stars>
+      <Your_Stars>-1</Your_Stars>
+      <Route_Type>Sport</Route_Type>
+      <Rating>5.9+</Rating>
+      <Pitches>1</Pitches>
+      <Length>45</Length>
+      <Area_Latitude>43.8415</Area_Latitude>
+      <Area_Longitude>-71.8233</Area_Longitude>
+   </route>
+   <route>
+      <Route/>
+      <Location/>
+      <URL/>
+      <Avg_Stars/>
+      <Your_Stars/>
+      <Route_Type/>
+      <Rating/>
+      <Pitches/>
+      <Length/>
+      <Area_Latitude/>
+      <Area_Longitude/>
    </route>
 </routes>
