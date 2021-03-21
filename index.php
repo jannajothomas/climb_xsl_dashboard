@@ -32,8 +32,8 @@ session_start();
     //echo $routesCSV;
     $myfile = fopen("testfile.txt", "w")
 
-    $output = shell_exec('./commaIssue csvconvert.xsl');
-    echo $output;
+//    $output = shell_exec('./commaIssue csvconvert.xsl');
+  //  echo $output;
 
 echo "Test2";
     $domTicksCSV = new DOMDocument();
